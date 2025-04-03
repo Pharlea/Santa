@@ -1,0 +1,11 @@
+C:\Users\unisanta\Desktop\Sem02Aula03-2\Sem02Aula03-2\bin\Debug\Sem02Aula03-2.exe.config
+C:\Users\unisanta\Desktop\Sem02Aula03-2\Sem02Aula03-2\bin\Debug\Sem02Aula03-2.exe
+C:\Users\unisanta\Desktop\Sem02Aula03-2\Sem02Aula03-2\bin\Debug\Sem02Aula03-2.pdb
+C:\Users\unisanta\Desktop\Sem02Aula03-2\Sem02Aula03-2\obj\Debug\Sem02Aula03-2.csproj.AssemblyReference.cache
+C:\Users\unisanta\Desktop\Sem02Aula03-2\Sem02Aula03-2\obj\Debug\Sem02Aula03-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\unisanta\Desktop\Sem02Aula03-2\Sem02Aula03-2\obj\Debug\Sem02Aula03_2.Form1.resources
+C:\Users\unisanta\Desktop\Sem02Aula03-2\Sem02Aula03-2\obj\Debug\Sem02Aula03_2.Properties.Resources.resources
+C:\Users\unisanta\Desktop\Sem02Aula03-2\Sem02Aula03-2\obj\Debug\Sem02Aula03-2.csproj.GenerateResource.cache
+C:\Users\unisanta\Desktop\Sem02Aula03-2\Sem02Aula03-2\obj\Debug\Sem02Aula03-2.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\Sem02Aula03-2\Sem02Aula03-2\obj\Debug\Sem02Aula03-2.exe
+C:\Users\unisanta\Desktop\Sem02Aula03-2\Sem02Aula03-2\obj\Debug\Sem02Aula03-2.pdb

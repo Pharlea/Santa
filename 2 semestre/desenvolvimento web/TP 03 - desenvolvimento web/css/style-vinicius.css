@@ -1,0 +1,51 @@
+body {
+font-family: "Edo SZ";
+font-size: 1.1rem;
+}
+
+.imgesc{
+float: left;
+}
+
+table, th, td{
+border: 3px solid var(--Main-Color);
+}
+
+a {
+color: var(--Second-Color);
+font-weight: bold;
+}
+
+button{
+border: 0;
+color: var(--Second-Color);
+background-color: #aaa;
+font-family: "Edo SZ";
+font-size: 1.13rem;
+}
+
+form label, button{
+font-weight: normal;
+display: block;
+}
+
+img{
+margin: 0 10px 0 0;
+}
+
+#imgest{
+border:3px solid var(--Main-Color);
+margin: 0 0 0 50px;
+}
+
+th{
+background-color: var(--Main-Color);
+}
+
+:root{
+--Main-Color: #999
+}
+
+:root{
+    --Second-Color: #000
+}

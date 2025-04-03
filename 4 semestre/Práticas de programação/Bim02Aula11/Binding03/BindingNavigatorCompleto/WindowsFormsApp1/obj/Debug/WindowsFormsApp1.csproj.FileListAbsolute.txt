@@ -1,0 +1,74 @@
+c:\users\asenj\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BDLivros.mdb
+c:\users\asenj\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+c:\users\asenj\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+c:\users\asenj\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+c:\users\asenj\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+c:\users\asenj\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+c:\users\asenj\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+c:\users\asenj\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+c:\users\asenj\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+c:\users\asenj\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2017\Primeiro Semestre\Santa C# noite\Bim02Aula18\Binding03\WindowsFormsApp1\bin\Debug\BDLivros.mdb
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2017\Primeiro Semestre\Santa C# noite\Bim02Aula18\Binding03\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2017\Primeiro Semestre\Santa C# noite\Bim02Aula18\Binding03\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2017\Primeiro Semestre\Santa C# noite\Bim02Aula18\Binding03\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2017\Primeiro Semestre\Santa C# noite\Bim02Aula18\Binding03\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2017\Primeiro Semestre\Santa C# noite\Bim02Aula18\Binding03\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2017\Primeiro Semestre\Santa C# noite\Bim02Aula18\Binding03\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2017\Primeiro Semestre\Santa C# noite\Bim02Aula18\Binding03\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2017\Primeiro Semestre\Santa C# noite\Bim02Aula18\Binding03\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2017\Primeiro Semestre\Santa C# noite\Bim02Aula18\Binding03\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim01Aula01\Binding03\WindowsFormsApp1\bin\Debug\BDLivros.mdb
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim01Aula01\Binding03\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim01Aula01\Binding03\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim01Aula01\Binding03\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim01Aula01\Binding03\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim01Aula01\Binding03\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim01Aula01\Binding03\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim01Aula01\Binding03\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim01Aula01\Binding03\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim01Aula01\Binding03\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula05\DesafioBindingNavigator\BindingNavigatorCompleto\WindowsFormsApp1\bin\Debug\BDLivros.mdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula05\DesafioBindingNavigator\BindingNavigatorCompleto\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula05\DesafioBindingNavigator\BindingNavigatorCompleto\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula05\DesafioBindingNavigator\BindingNavigatorCompleto\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula05\DesafioBindingNavigator\BindingNavigatorCompleto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula05\DesafioBindingNavigator\BindingNavigatorCompleto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula05\DesafioBindingNavigator\BindingNavigatorCompleto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula05\DesafioBindingNavigator\BindingNavigatorCompleto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula05\DesafioBindingNavigator\BindingNavigatorCompleto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula05\DesafioBindingNavigator\BindingNavigatorCompleto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula05\DesafioBindingNavigator\BindingNavigatorCompleto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula02\Binding03\BindingNavigatorCompleto\WindowsFormsApp1\bin\Debug\BDLivros.mdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula02\Binding03\BindingNavigatorCompleto\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula02\Binding03\BindingNavigatorCompleto\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula02\Binding03\BindingNavigatorCompleto\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula02\Binding03\BindingNavigatorCompleto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula02\Binding03\BindingNavigatorCompleto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula02\Binding03\BindingNavigatorCompleto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula02\Binding03\BindingNavigatorCompleto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula02\Binding03\BindingNavigatorCompleto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula02\Binding03\BindingNavigatorCompleto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula02\Binding03\BindingNavigatorCompleto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2023\SegundoSemestre\SantaLinguagem\Bim01Aula02\Binding03\BindingNavigatorCompleto\WindowsFormsApp1\bin\Debug\BDLivros.mdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2023\SegundoSemestre\SantaLinguagem\Bim01Aula02\Binding03\BindingNavigatorCompleto\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2023\SegundoSemestre\SantaLinguagem\Bim01Aula02\Binding03\BindingNavigatorCompleto\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2023\SegundoSemestre\SantaLinguagem\Bim01Aula02\Binding03\BindingNavigatorCompleto\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2023\SegundoSemestre\SantaLinguagem\Bim01Aula02\Binding03\BindingNavigatorCompleto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2023\SegundoSemestre\SantaLinguagem\Bim01Aula02\Binding03\BindingNavigatorCompleto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2023\SegundoSemestre\SantaLinguagem\Bim01Aula02\Binding03\BindingNavigatorCompleto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2023\SegundoSemestre\SantaLinguagem\Bim01Aula02\Binding03\BindingNavigatorCompleto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2023\SegundoSemestre\SantaLinguagem\Bim01Aula02\Binding03\BindingNavigatorCompleto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2023\SegundoSemestre\SantaLinguagem\Bim01Aula02\Binding03\BindingNavigatorCompleto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2023\SegundoSemestre\SantaLinguagem\Bim01Aula02\Binding03\BindingNavigatorCompleto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2024\SegundoSemestre\SantaPraticaProgramacao\Bim02Aula11\Binding03\BindingNavigatorCompleto\WindowsFormsApp1\bin\Debug\BDLivros.mdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2024\SegundoSemestre\SantaPraticaProgramacao\Bim02Aula11\Binding03\BindingNavigatorCompleto\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2024\SegundoSemestre\SantaPraticaProgramacao\Bim02Aula11\Binding03\BindingNavigatorCompleto\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2024\SegundoSemestre\SantaPraticaProgramacao\Bim02Aula11\Binding03\BindingNavigatorCompleto\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2024\SegundoSemestre\SantaPraticaProgramacao\Bim02Aula11\Binding03\BindingNavigatorCompleto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2024\SegundoSemestre\SantaPraticaProgramacao\Bim02Aula11\Binding03\BindingNavigatorCompleto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2024\SegundoSemestre\SantaPraticaProgramacao\Bim02Aula11\Binding03\BindingNavigatorCompleto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2024\SegundoSemestre\SantaPraticaProgramacao\Bim02Aula11\Binding03\BindingNavigatorCompleto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2024\SegundoSemestre\SantaPraticaProgramacao\Bim02Aula11\Binding03\BindingNavigatorCompleto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2024\SegundoSemestre\SantaPraticaProgramacao\Bim02Aula11\Binding03\BindingNavigatorCompleto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2024\SegundoSemestre\SantaPraticaProgramacao\Bim02Aula11\Binding03\BindingNavigatorCompleto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

@@ -1,0 +1,15 @@
+C:\Users\unisanta\Desktop\TP 2 (02) propriedades POO\TP 2 (02) propriedades POO\bin\Debug\net6.0\TP 2 (02) propriedades POO.exe
+C:\Users\unisanta\Desktop\TP 2 (02) propriedades POO\TP 2 (02) propriedades POO\bin\Debug\net6.0\TP 2 (02) propriedades POO.deps.json
+C:\Users\unisanta\Desktop\TP 2 (02) propriedades POO\TP 2 (02) propriedades POO\bin\Debug\net6.0\TP 2 (02) propriedades POO.runtimeconfig.json
+C:\Users\unisanta\Desktop\TP 2 (02) propriedades POO\TP 2 (02) propriedades POO\bin\Debug\net6.0\TP 2 (02) propriedades POO.dll
+C:\Users\unisanta\Desktop\TP 2 (02) propriedades POO\TP 2 (02) propriedades POO\bin\Debug\net6.0\ref\TP 2 (02) propriedades POO.dll
+C:\Users\unisanta\Desktop\TP 2 (02) propriedades POO\TP 2 (02) propriedades POO\bin\Debug\net6.0\TP 2 (02) propriedades POO.pdb
+C:\Users\unisanta\Desktop\TP 2 (02) propriedades POO\TP 2 (02) propriedades POO\obj\Debug\net6.0\TP 2 (02) propriedades POO.csproj.AssemblyReference.cache
+C:\Users\unisanta\Desktop\TP 2 (02) propriedades POO\TP 2 (02) propriedades POO\obj\Debug\net6.0\TP 2 (02) propriedades POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unisanta\Desktop\TP 2 (02) propriedades POO\TP 2 (02) propriedades POO\obj\Debug\net6.0\TP 2 (02) propriedades POO.AssemblyInfoInputs.cache
+C:\Users\unisanta\Desktop\TP 2 (02) propriedades POO\TP 2 (02) propriedades POO\obj\Debug\net6.0\TP 2 (02) propriedades POO.AssemblyInfo.cs
+C:\Users\unisanta\Desktop\TP 2 (02) propriedades POO\TP 2 (02) propriedades POO\obj\Debug\net6.0\TP 2 (02) propriedades POO.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\TP 2 (02) propriedades POO\TP 2 (02) propriedades POO\obj\Debug\net6.0\TP 2 (02) propriedades POO.dll
+C:\Users\unisanta\Desktop\TP 2 (02) propriedades POO\TP 2 (02) propriedades POO\obj\Debug\net6.0\ref\TP 2 (02) propriedades POO.dll
+C:\Users\unisanta\Desktop\TP 2 (02) propriedades POO\TP 2 (02) propriedades POO\obj\Debug\net6.0\TP 2 (02) propriedades POO.pdb
+C:\Users\unisanta\Desktop\TP 2 (02) propriedades POO\TP 2 (02) propriedades POO\obj\Debug\net6.0\TP 2 (02) propriedades POO.genruntimeconfig.cache

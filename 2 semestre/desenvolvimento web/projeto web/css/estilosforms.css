@@ -1,0 +1,49 @@
+body, select{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 1rem;
+}
+
+label, legend, button{
+    font-weight: bold;
+}
+fieldset label{
+    font-weight: normal;
+    display: inline;
+}
+label, textarea{
+    display: block;
+}
+
+input{
+    width: 250px;
+}
+
+fieldset input{
+    width: 1rem;
+}
+textarea{
+    resize: none;
+    width: 422px;
+    height: 100px;
+}
+
+input, fieldset, select, textarea{
+    margin-bottom: 20px;
+    border: 1px solid #444;
+    border-radius: 10px;
+}
+
+fieldset{
+    height: 40px;
+    width: 400px;
+}
+
+button{
+    border: 0;
+    color: #fff;
+    background-color: #111;
+    font-size: 1.06rem;
+    padding: 0.625rem;
+    border-radius: 10px;
+}
+

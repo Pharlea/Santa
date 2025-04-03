@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "VfUGJBdhePpuwog4EHCDmz4inHRjSkaJCfhXW5l/nHA=",
+  "Source": "TP - Cache n Image",
+  "BasePath": "_content/TP - Cache n Image",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TP - Cache n Image\\wwwroot",
+      "Source": "TP - Cache n Image",
+      "ContentRoot": "C:\\Users\\unisanta\\Desktop\\TP - Cache n Image\\TP - Cache n Image\\wwwroot\\",
+      "BasePath": "_content/TP - Cache n Image",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\unisanta\\Desktop\\TP - Cache n Image\\TP - Cache n Image\\wwwroot\\images\\1a6d705b-49c4-42d4-9e2d-13ffbf5ae543.jpg",
+      "SourceId": "TP - Cache n Image",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\unisanta\\Desktop\\TP - Cache n Image\\TP - Cache n Image\\wwwroot\\",
+      "BasePath": "_content/TP - Cache n Image",
+      "RelativePath": "images/1a6d705b-49c4-42d4-9e2d-13ffbf5ae543.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\1a6d705b-49c4-42d4-9e2d-13ffbf5ae543.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\unisanta\\Desktop\\TP - Cache n Image\\TP - Cache n Image\\wwwroot\\images\\9a98c7f2-3870-46df-9783-1fb1bc5f936a.jpg",
+      "SourceId": "TP - Cache n Image",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\unisanta\\Desktop\\TP - Cache n Image\\TP - Cache n Image\\wwwroot\\",
+      "BasePath": "_content/TP - Cache n Image",
+      "RelativePath": "images/9a98c7f2-3870-46df-9783-1fb1bc5f936a.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\9a98c7f2-3870-46df-9783-1fb1bc5f936a.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\unisanta\\Desktop\\TP - Cache n Image\\TP - Cache n Image\\wwwroot\\images\\df61d1b3-82bc-49bd-aab5-89efd81f67e4.jpg",
+      "SourceId": "TP - Cache n Image",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\unisanta\\Desktop\\TP - Cache n Image\\TP - Cache n Image\\wwwroot\\",
+      "BasePath": "_content/TP - Cache n Image",
+      "RelativePath": "images/df61d1b3-82bc-49bd-aab5-89efd81f67e4.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\df61d1b3-82bc-49bd-aab5-89efd81f67e4.jpg"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula02\Binding02\Binding02\obj\Debug\Binding02.Form1.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula02\Binding02\Binding02\obj\Debug\Binding02.Properties.Resources.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula02\Binding02\Binding02\obj\Debug\Binding02.csproj.GenerateResource.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula02\Binding02\Binding02\obj\Debug\Binding02.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula02\Binding02\Binding02\bin\Debug\Binding02.exe.config
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula02\Binding02\Binding02\bin\Debug\Binding02.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula02\Binding02\Binding02\bin\Debug\Binding02.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula02\Binding02\Binding02\obj\Debug\Binding02.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula02\Binding02\Binding02\obj\Debug\Binding02.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula02\Binding02\Binding02\obj\Debug\Binding02.csproj.AssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2023\SegundoSemestre\SantaLinguagem\Bim01Aula02\Binding02\Binding02\bin\Debug\Binding02.exe.config
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2023\SegundoSemestre\SantaLinguagem\Bim01Aula02\Binding02\Binding02\bin\Debug\Binding02.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2023\SegundoSemestre\SantaLinguagem\Bim01Aula02\Binding02\Binding02\bin\Debug\Binding02.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2023\SegundoSemestre\SantaLinguagem\Bim01Aula02\Binding02\Binding02\obj\Debug\Binding02.csproj.AssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2023\SegundoSemestre\SantaLinguagem\Bim01Aula02\Binding02\Binding02\obj\Debug\Binding02.Form1.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2023\SegundoSemestre\SantaLinguagem\Bim01Aula02\Binding02\Binding02\obj\Debug\Binding02.Properties.Resources.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2023\SegundoSemestre\SantaLinguagem\Bim01Aula02\Binding02\Binding02\obj\Debug\Binding02.csproj.GenerateResource.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2023\SegundoSemestre\SantaLinguagem\Bim01Aula02\Binding02\Binding02\obj\Debug\Binding02.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2023\SegundoSemestre\SantaLinguagem\Bim01Aula02\Binding02\Binding02\obj\Debug\Binding02.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2023\SegundoSemestre\SantaLinguagem\Bim01Aula02\Binding02\Binding02\obj\Debug\Binding02.pdb

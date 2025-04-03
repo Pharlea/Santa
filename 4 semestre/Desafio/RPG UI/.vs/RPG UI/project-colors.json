@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "81a91878-5682-456d-a083-8e222e3d11fc": {
+      "ProjectGuid": "81a91878-5682-456d-a083-8e222e3d11fc",
+      "DisplayName": "RPG UI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

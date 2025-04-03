@@ -1,0 +1,15 @@
+C:\Users\unisanta\Desktop\TP Cálculo de chamadas recursivas\TP Cálculo de chamadas recursivas\bin\Debug\net6.0\TP Cálculo de chamadas recursivas.exe
+C:\Users\unisanta\Desktop\TP Cálculo de chamadas recursivas\TP Cálculo de chamadas recursivas\bin\Debug\net6.0\TP Cálculo de chamadas recursivas.deps.json
+C:\Users\unisanta\Desktop\TP Cálculo de chamadas recursivas\TP Cálculo de chamadas recursivas\bin\Debug\net6.0\TP Cálculo de chamadas recursivas.runtimeconfig.json
+C:\Users\unisanta\Desktop\TP Cálculo de chamadas recursivas\TP Cálculo de chamadas recursivas\bin\Debug\net6.0\TP Cálculo de chamadas recursivas.dll
+C:\Users\unisanta\Desktop\TP Cálculo de chamadas recursivas\TP Cálculo de chamadas recursivas\bin\Debug\net6.0\ref\TP Cálculo de chamadas recursivas.dll
+C:\Users\unisanta\Desktop\TP Cálculo de chamadas recursivas\TP Cálculo de chamadas recursivas\bin\Debug\net6.0\TP Cálculo de chamadas recursivas.pdb
+C:\Users\unisanta\Desktop\TP Cálculo de chamadas recursivas\TP Cálculo de chamadas recursivas\obj\Debug\net6.0\TP Cálculo de chamadas recursivas.csproj.AssemblyReference.cache
+C:\Users\unisanta\Desktop\TP Cálculo de chamadas recursivas\TP Cálculo de chamadas recursivas\obj\Debug\net6.0\TP Cálculo de chamadas recursivas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unisanta\Desktop\TP Cálculo de chamadas recursivas\TP Cálculo de chamadas recursivas\obj\Debug\net6.0\TP Cálculo de chamadas recursivas.AssemblyInfoInputs.cache
+C:\Users\unisanta\Desktop\TP Cálculo de chamadas recursivas\TP Cálculo de chamadas recursivas\obj\Debug\net6.0\TP Cálculo de chamadas recursivas.AssemblyInfo.cs
+C:\Users\unisanta\Desktop\TP Cálculo de chamadas recursivas\TP Cálculo de chamadas recursivas\obj\Debug\net6.0\TP Cálculo de chamadas recursivas.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\TP Cálculo de chamadas recursivas\TP Cálculo de chamadas recursivas\obj\Debug\net6.0\TP Cálculo de chamadas recursivas.dll
+C:\Users\unisanta\Desktop\TP Cálculo de chamadas recursivas\TP Cálculo de chamadas recursivas\obj\Debug\net6.0\ref\TP Cálculo de chamadas recursivas.dll
+C:\Users\unisanta\Desktop\TP Cálculo de chamadas recursivas\TP Cálculo de chamadas recursivas\obj\Debug\net6.0\TP Cálculo de chamadas recursivas.pdb
+C:\Users\unisanta\Desktop\TP Cálculo de chamadas recursivas\TP Cálculo de chamadas recursivas\obj\Debug\net6.0\TP Cálculo de chamadas recursivas.genruntimeconfig.cache

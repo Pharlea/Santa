@@ -1,0 +1,16 @@
+meuEmailDeTesteReal@gmail.com
+minhaSenhaDeTesteReal
+
+-------
+
+
+Usuário
+Usuario@gmail.com
+aSenhaDoUsuário
+
+
+-------
+
+Segundo usuário
+Usuario2@gmail.com
+123456

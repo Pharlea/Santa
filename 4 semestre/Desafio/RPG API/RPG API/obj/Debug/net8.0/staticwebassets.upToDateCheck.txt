@@ -1,0 +1,2 @@
+wwwroot\Images\Blank.png
+wwwroot\Images\Config icon (3).png

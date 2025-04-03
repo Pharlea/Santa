@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>
+        Dados
+    </title>
+
+    <link rel="stylesheet" href="css/estilosforms.css">
+</head>
+
+<body>
+
+    <h1>
+        contato
+    </h1>
+
+    <form method="post" action="https://professores.unisanta.br/sobrino/scripts/mostra-v2.php">
+
+
+        <label for="e-mail">
+            E-mail
+        </label>
+
+        <input type="email" name="e-mail" id="e-mail" placeholder="E-mail" maxlength="50" autofocus required>
+
+        <label for="cpf">
+            cpf
+        </label>
+
+        <input type="text" name="cpf" id="cpf" placeholder="cpf" maxlength="14" data-mask="000.000.000-00">
+
+
+        <label for="datanascimento">
+            data de nascimento
+        </label>
+
+        <input type="date" name="datanascimento" id="datanascimento" placeholder="data de nascimento" maxlength="50" autofocus required>
+
+        <label for="telefone">
+            telefone
+        </label>
+
+        <input type="tel" name="telefone" id="telefone"  maxlength="15" placeholder="telefone" data-mask="(00) 00000-0000" required>
+
+
+
+        <label for="escolaridade">
+
+            Escolaridade
+
+        </label>
+
+        <select name="escolaridade" id="escolaridade" required>
+
+            <option value=""></option>
+
+            <option value="ef"> ensino fundamental</option>
+
+            <option value="et"> ensino técnico</option>
+
+            <option value="em"> ensino médio</option>
+
+            <option value="es"> ensino superior</option>
+
+            <option value="pg"> pós graduação</option>
+
+        </select>
+
+        <fieldset>
+
+            <legend>
+                você é aluno(a) da unisanta?
+            </legend>
+
+            <input type="radio" name="alunounisanta" id="alunounisanta-s" value="s">
+
+            <label for="alunounisanta-s">
+                sim
+            </label>
+
+            <input type="radio" name="alunounisanta" id="alunounisanta-n" value="n">
+
+            <label for="alunounisanta-n">
+                não
+            </label>
+
+        </fieldset>
+
+        <fieldset>
+
+            <legend>
+                linguagens favoritas
+            </legend>
+
+            <input type="checkbox" name="linguagem-favorita[]" id="linguagem-favorita-c#" value="c#">
+
+            <label for="linguagem-favorita-c#">
+                C#
+            </label>
+
+            <input type="checkbox" name="linguagem-favorita[]" id="linguagem-favorita-html" value="html">
+
+            <label for="linguagem-favorita-html">
+                HTML
+            </label>
+
+            <input type="checkbox" name="linguagem-favorita[]" id="linguagem-favorita-CSS" value="CSS">
+            <label for="linguagem-favorita-CSS">
+                CSS
+            </label>
+
+            <input type="checkbox" name="linguagem-favorita[]" id="linguagem-favorita-JavaScript" value="JavaScript">
+
+            <label for="linguagem-favorita-JavaScript">
+                JavaScript
+            </label>
+
+        </fieldset>
+
+
+        <label for="mensagem">
+
+            mensagem
+
+        </label>
+
+
+
+
+        <textarea name="mensagem" id="mensagem" maxlength="500"></textarea>
+
+
+
+        <button>
+            enviar
+        </button>
+
+
+    </form>
+
+    <!-- forma 2 (pegando o link e usando uma cdn para acessar a biblioteca pela internet) -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.16/jquery.mask.min.js" integrity="sha512-pHVGpX7F/27yZ0ISY+VVjyULApbDlD0/X0rgGbTqCE7WFW5MezNTWG/dnhtbBuICzsd0WQPgpE4REBLv+UqChw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <!-- forma 1 (baixando os arquivos e colocando em uma pasta que é acessada localmante)-->
+    <!-- <script src="https://code.jquery.com/jquery-latest.min.js"></script>
+    <script src="js/jquery.mask.min.js"></script> -->
+
+
+</body>
+
+</html>

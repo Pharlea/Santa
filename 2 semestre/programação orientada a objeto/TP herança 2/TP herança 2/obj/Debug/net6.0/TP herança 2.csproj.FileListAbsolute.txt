@@ -1,0 +1,15 @@
+C:\Users\unisanta\Desktop\TP herança 2\TP herança 2\bin\Debug\net6.0\TP herança 2.exe
+C:\Users\unisanta\Desktop\TP herança 2\TP herança 2\bin\Debug\net6.0\TP herança 2.deps.json
+C:\Users\unisanta\Desktop\TP herança 2\TP herança 2\bin\Debug\net6.0\TP herança 2.runtimeconfig.json
+C:\Users\unisanta\Desktop\TP herança 2\TP herança 2\bin\Debug\net6.0\TP herança 2.dll
+C:\Users\unisanta\Desktop\TP herança 2\TP herança 2\bin\Debug\net6.0\ref\TP herança 2.dll
+C:\Users\unisanta\Desktop\TP herança 2\TP herança 2\bin\Debug\net6.0\TP herança 2.pdb
+C:\Users\unisanta\Desktop\TP herança 2\TP herança 2\obj\Debug\net6.0\TP herança 2.csproj.AssemblyReference.cache
+C:\Users\unisanta\Desktop\TP herança 2\TP herança 2\obj\Debug\net6.0\TP herança 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unisanta\Desktop\TP herança 2\TP herança 2\obj\Debug\net6.0\TP herança 2.AssemblyInfoInputs.cache
+C:\Users\unisanta\Desktop\TP herança 2\TP herança 2\obj\Debug\net6.0\TP herança 2.AssemblyInfo.cs
+C:\Users\unisanta\Desktop\TP herança 2\TP herança 2\obj\Debug\net6.0\TP herança 2.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\TP herança 2\TP herança 2\obj\Debug\net6.0\TP herança 2.dll
+C:\Users\unisanta\Desktop\TP herança 2\TP herança 2\obj\Debug\net6.0\ref\TP herança 2.dll
+C:\Users\unisanta\Desktop\TP herança 2\TP herança 2\obj\Debug\net6.0\TP herança 2.pdb
+C:\Users\unisanta\Desktop\TP herança 2\TP herança 2\obj\Debug\net6.0\TP herança 2.genruntimeconfig.cache

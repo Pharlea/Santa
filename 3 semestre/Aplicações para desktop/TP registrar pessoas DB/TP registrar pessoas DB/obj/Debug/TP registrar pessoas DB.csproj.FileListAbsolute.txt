@@ -1,0 +1,11 @@
+C:\Users\unisanta\Desktop\TP registrar pessoas DB\TP registrar pessoas DB\bin\Debug\TP registrar pessoas DB.exe.config
+C:\Users\unisanta\Desktop\TP registrar pessoas DB\TP registrar pessoas DB\bin\Debug\TP registrar pessoas DB.exe
+C:\Users\unisanta\Desktop\TP registrar pessoas DB\TP registrar pessoas DB\bin\Debug\TP registrar pessoas DB.pdb
+C:\Users\unisanta\Desktop\TP registrar pessoas DB\TP registrar pessoas DB\obj\Debug\TP registrar pessoas DB.csproj.AssemblyReference.cache
+C:\Users\unisanta\Desktop\TP registrar pessoas DB\TP registrar pessoas DB\obj\Debug\TP registrar pessoas DB.csproj.SuggestedBindingRedirects.cache
+C:\Users\unisanta\Desktop\TP registrar pessoas DB\TP registrar pessoas DB\obj\Debug\TP_registrar_pessoas_DB.Form1.resources
+C:\Users\unisanta\Desktop\TP registrar pessoas DB\TP registrar pessoas DB\obj\Debug\TP_registrar_pessoas_DB.Properties.Resources.resources
+C:\Users\unisanta\Desktop\TP registrar pessoas DB\TP registrar pessoas DB\obj\Debug\TP registrar pessoas DB.csproj.GenerateResource.cache
+C:\Users\unisanta\Desktop\TP registrar pessoas DB\TP registrar pessoas DB\obj\Debug\TP registrar pessoas DB.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\TP registrar pessoas DB\TP registrar pessoas DB\obj\Debug\TP registrar pessoas DB.exe
+C:\Users\unisanta\Desktop\TP registrar pessoas DB\TP registrar pessoas DB\obj\Debug\TP registrar pessoas DB.pdb

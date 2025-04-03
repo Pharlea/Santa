@@ -1,0 +1,98 @@
+body {
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 18px;
+}
+h1 {
+font-size: 26px;
+color: #1e3fac;
+}
+h2 {
+font-size: 22px;
+color: #1e3fac;
+}
+a
+{
+color: #000;
+font-weight: bold;
+}
+a:hover {
+color: #6666ff;
+}
+img {
+float: right;
+border: 3px solid #ccc;
+/* border-width: 5px;
+border-style: solid; (esse é a versão grande da regra acima)
+border-color: #aaa; */
+
+/* margin: 55px; (todas as direções)*/
+
+/* margin-bottom: 30px; 
+margin-left: 10px; (versão grande da debaixo)*/
+margin: 0 0 10px 30px;
+padding: 10px;
+}
+strong {
+background-color: #57b11b;
+}
+address strong {
+background-color: #35ff90;
+}
+ul a {
+background-color: #daa;
+}
+
+.link-especial {
+background-color: #aaaaff;
+}
+#titulo-exclusivo {
+background-color: #fcf;
+}
+
+:root {
+    --estiloborda: solid;
+}
+
+/*
+NOTAS CSS
+• jigsaw.w3.org/css-validator/ = validar a folha de estilos
+• css = cascading style sheet (folhas de estilo em cascata)
+• a unidade é sempre colada ao valor
+• propriedades com nomes compostos possuem hífen
+• a folha de estilos costuma ser externa
+• é iniciado com <style>
+• a pseudoclasse te permite alterar o estado do elemento
+• box model: border, margin e padding
+• mdn css [elemento buscado]
+• todos os elementos que estão dentro de outros elementos são descendentes deles
+• ">" é o combinador de filhos
+• ao usar um (elemento "espaço" elemento) você pode selecionar mais especificamente o que mudar (seletor de tipo)
+• ao usar um ponto (.) antes do elemento você pode criar seu próprio atributo/classe/elemento (seletor de classe)
+• "#" é um seletor id especial (id) que funciona da mesma forma que o ponto, porém cada um deles pode apenas ser usado apenas uma única vez 
+•hierárquia de ordem de seletores (especificidade): ID (1,0,0) - CLASSE (0,1,0) - SELETOR DE TIPO (0,0,1); cada vez que um seletor aparece, você soma 1 para o tipo de seletor (é possível mudar a hierarquia com !important[EVITAR USAR])
+• rem é unidade relativa de fontes, é preferível usar rem ao invés de px
+
+ELEMENTOS
+• font-family: estilo de fonte
+• font-size: o tamanho da fonte (em pixels prioritariamente)
+• color: escolher a cor (em hexadecimal [RRGGBB{se forem todos iguais, pode-se reduzir para RGB}])
+• font-weight: serve para colocar em negrito (normalmente se usa o bold)
+• float: fazer "flutuar" na direita ou esquerda do texto
+• border: escolhe o tamanho, tipo e cor da borda
+• margin: é o tamanho da margem que pode ser decidido por direção
+• padding: espaço entre o elemento e a borda
+• background-color: usado para selecionar uma cor de fundo de um elemento
+• display: pode ser usado para mudar a forma de exibição dos elementos entre serem blocos ou linhas (e entre outros?)
+
+PSEUDOCLASSES
+• hover: pode alterar o estado de algum elemento (como por exemplo fazer um link mudar de cor ao cursar passar por cima)
+• hoot: ele representa o html e pode ser usada para criar variáveis globais (usar para aglutinar atributos); para chamar o atributo do hoot, usar: [var()]
+
+ESTILOS PARA REGRAS
+
+"elemento[seletor]"(: "pseudoclasse")(,"elemento2[seletor2]") (*espaço* "elementodescendente"){
+"propriedade": "valor";
+"propriedade2": "valor2";
+}
+
+*/

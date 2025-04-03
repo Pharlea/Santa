@@ -1,0 +1,22 @@
+C:\Users\unisanta\Desktop\ConversãoDistancia\ConversãoDistancia\bin\Debug\ConversãoDistancia.exe.config
+C:\Users\unisanta\Desktop\ConversãoDistancia\ConversãoDistancia\bin\Debug\ConversãoDistancia.exe
+C:\Users\unisanta\Desktop\ConversãoDistancia\ConversãoDistancia\bin\Debug\ConversãoDistancia.pdb
+C:\Users\unisanta\Desktop\ConversãoDistancia\ConversãoDistancia\obj\Debug\ConversãoDistancia.csproj.AssemblyReference.cache
+C:\Users\unisanta\Desktop\ConversãoDistancia\ConversãoDistancia\obj\Debug\ConversãoDistancia.csproj.SuggestedBindingRedirects.cache
+C:\Users\unisanta\Desktop\ConversãoDistancia\ConversãoDistancia\obj\Debug\ConversãoDistancia.Form1.resources
+C:\Users\unisanta\Desktop\ConversãoDistancia\ConversãoDistancia\obj\Debug\ConversãoDistancia.Properties.Resources.resources
+C:\Users\unisanta\Desktop\ConversãoDistancia\ConversãoDistancia\obj\Debug\ConversãoDistancia.csproj.GenerateResource.cache
+C:\Users\unisanta\Desktop\ConversãoDistancia\ConversãoDistancia\obj\Debug\ConversãoDistancia.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\ConversãoDistancia\ConversãoDistancia\obj\Debug\ConversãoDistancia.exe
+C:\Users\unisanta\Desktop\ConversãoDistancia\ConversãoDistancia\obj\Debug\ConversãoDistancia.pdb
+C:\Users\unisanta\Desktop\Exercícios AULA 02\ConversãoDistancia\ConversãoDistancia\bin\Debug\ConversãoDistancia.exe.config
+C:\Users\unisanta\Desktop\Exercícios AULA 02\ConversãoDistancia\ConversãoDistancia\bin\Debug\ConversãoDistancia.exe
+C:\Users\unisanta\Desktop\Exercícios AULA 02\ConversãoDistancia\ConversãoDistancia\bin\Debug\ConversãoDistancia.pdb
+C:\Users\unisanta\Desktop\Exercícios AULA 02\ConversãoDistancia\ConversãoDistancia\obj\Debug\ConversãoDistancia.csproj.AssemblyReference.cache
+C:\Users\unisanta\Desktop\Exercícios AULA 02\ConversãoDistancia\ConversãoDistancia\obj\Debug\ConversãoDistancia.csproj.SuggestedBindingRedirects.cache
+C:\Users\unisanta\Desktop\Exercícios AULA 02\ConversãoDistancia\ConversãoDistancia\obj\Debug\ConversãoDistancia.Form1.resources
+C:\Users\unisanta\Desktop\Exercícios AULA 02\ConversãoDistancia\ConversãoDistancia\obj\Debug\ConversãoDistancia.Properties.Resources.resources
+C:\Users\unisanta\Desktop\Exercícios AULA 02\ConversãoDistancia\ConversãoDistancia\obj\Debug\ConversãoDistancia.csproj.GenerateResource.cache
+C:\Users\unisanta\Desktop\Exercícios AULA 02\ConversãoDistancia\ConversãoDistancia\obj\Debug\ConversãoDistancia.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\Exercícios AULA 02\ConversãoDistancia\ConversãoDistancia\obj\Debug\ConversãoDistancia.exe
+C:\Users\unisanta\Desktop\Exercícios AULA 02\ConversãoDistancia\ConversãoDistancia\obj\Debug\ConversãoDistancia.pdb

@@ -1,0 +1,12 @@
+C:\Users\unisanta\Desktop\TP - gerar pdf e ler lista\TP - gerar pdf e ler lista\bin\Debug\TP - gerar pdf e ler lista.exe.config
+C:\Users\unisanta\Desktop\TP - gerar pdf e ler lista\TP - gerar pdf e ler lista\bin\Debug\TP - gerar pdf e ler lista.exe
+C:\Users\unisanta\Desktop\TP - gerar pdf e ler lista\TP - gerar pdf e ler lista\bin\Debug\TP - gerar pdf e ler lista.pdb
+C:\Users\unisanta\Desktop\TP - gerar pdf e ler lista\TP - gerar pdf e ler lista\obj\Debug\TP - gerar pdf e ler lista.csproj.AssemblyReference.cache
+C:\Users\unisanta\Desktop\TP - gerar pdf e ler lista\TP - gerar pdf e ler lista\obj\Debug\TP - gerar pdf e ler lista.csproj.SuggestedBindingRedirects.cache
+C:\Users\unisanta\Desktop\TP - gerar pdf e ler lista\TP - gerar pdf e ler lista\obj\Debug\TP___gerar_pdf_e_ler_lista.Properties.Resources.resources
+C:\Users\unisanta\Desktop\TP - gerar pdf e ler lista\TP - gerar pdf e ler lista\obj\Debug\TP - gerar pdf e ler lista.csproj.GenerateResource.cache
+C:\Users\unisanta\Desktop\TP - gerar pdf e ler lista\TP - gerar pdf e ler lista\obj\Debug\TP - gerar pdf e ler lista.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\TP - gerar pdf e ler lista\TP - gerar pdf e ler lista\obj\Debug\TP - gerar pdf e ler lista.exe
+C:\Users\unisanta\Desktop\TP - gerar pdf e ler lista\TP - gerar pdf e ler lista\obj\Debug\TP - gerar pdf e ler lista.pdb
+C:\Users\unisanta\Desktop\TP - gerar pdf e ler lista\TP - gerar pdf e ler lista\obj\Debug\TP___gerar_pdf_e_ler_lista.Acesso.resources
+C:\Users\unisanta\Desktop\TP - gerar pdf e ler lista\TP - gerar pdf e ler lista\obj\Debug\TP - gerar pdf e ler lista.csproj.ResolveComReference.cache

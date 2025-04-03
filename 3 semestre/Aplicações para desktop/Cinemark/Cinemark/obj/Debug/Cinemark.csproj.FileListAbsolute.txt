@@ -1,0 +1,11 @@
+C:\Users\unisanta\Desktop\Cinemark\Cinemark\bin\Debug\Cinemark.exe.config
+C:\Users\unisanta\Desktop\Cinemark\Cinemark\bin\Debug\Cinemark.exe
+C:\Users\unisanta\Desktop\Cinemark\Cinemark\bin\Debug\Cinemark.pdb
+C:\Users\unisanta\Desktop\Cinemark\Cinemark\obj\Debug\Cinemark.csproj.AssemblyReference.cache
+C:\Users\unisanta\Desktop\Cinemark\Cinemark\obj\Debug\Cinemark.csproj.SuggestedBindingRedirects.cache
+C:\Users\unisanta\Desktop\Cinemark\Cinemark\obj\Debug\Cinemark.Properties.Resources.resources
+C:\Users\unisanta\Desktop\Cinemark\Cinemark\obj\Debug\Cinemark.csproj.GenerateResource.cache
+C:\Users\unisanta\Desktop\Cinemark\Cinemark\obj\Debug\Cinemark.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\Cinemark\Cinemark\obj\Debug\Cinemark.exe
+C:\Users\unisanta\Desktop\Cinemark\Cinemark\obj\Debug\Cinemark.pdb
+C:\Users\unisanta\Desktop\Cinemark\Cinemark\obj\Debug\Cinemark.Cinemark.resources

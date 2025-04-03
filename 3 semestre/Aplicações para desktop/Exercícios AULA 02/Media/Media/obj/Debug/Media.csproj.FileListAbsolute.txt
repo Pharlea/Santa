@@ -1,0 +1,22 @@
+C:\Users\unisanta\Desktop\Media\Media\bin\Debug\Media.exe.config
+C:\Users\unisanta\Desktop\Media\Media\bin\Debug\Media.exe
+C:\Users\unisanta\Desktop\Media\Media\bin\Debug\Media.pdb
+C:\Users\unisanta\Desktop\Media\Media\obj\Debug\Media.csproj.AssemblyReference.cache
+C:\Users\unisanta\Desktop\Media\Media\obj\Debug\Media.csproj.SuggestedBindingRedirects.cache
+C:\Users\unisanta\Desktop\Media\Media\obj\Debug\Media.Form1.resources
+C:\Users\unisanta\Desktop\Media\Media\obj\Debug\Media.Properties.Resources.resources
+C:\Users\unisanta\Desktop\Media\Media\obj\Debug\Media.csproj.GenerateResource.cache
+C:\Users\unisanta\Desktop\Media\Media\obj\Debug\Media.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\Media\Media\obj\Debug\Media.exe
+C:\Users\unisanta\Desktop\Media\Media\obj\Debug\Media.pdb
+C:\Users\unisanta\Desktop\Exercícios AULA 02\Media\Media\bin\Debug\Media.exe.config
+C:\Users\unisanta\Desktop\Exercícios AULA 02\Media\Media\bin\Debug\Media.exe
+C:\Users\unisanta\Desktop\Exercícios AULA 02\Media\Media\bin\Debug\Media.pdb
+C:\Users\unisanta\Desktop\Exercícios AULA 02\Media\Media\obj\Debug\Media.csproj.AssemblyReference.cache
+C:\Users\unisanta\Desktop\Exercícios AULA 02\Media\Media\obj\Debug\Media.csproj.SuggestedBindingRedirects.cache
+C:\Users\unisanta\Desktop\Exercícios AULA 02\Media\Media\obj\Debug\Media.Form1.resources
+C:\Users\unisanta\Desktop\Exercícios AULA 02\Media\Media\obj\Debug\Media.Properties.Resources.resources
+C:\Users\unisanta\Desktop\Exercícios AULA 02\Media\Media\obj\Debug\Media.csproj.GenerateResource.cache
+C:\Users\unisanta\Desktop\Exercícios AULA 02\Media\Media\obj\Debug\Media.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\Exercícios AULA 02\Media\Media\obj\Debug\Media.exe
+C:\Users\unisanta\Desktop\Exercícios AULA 02\Media\Media\obj\Debug\Media.pdb

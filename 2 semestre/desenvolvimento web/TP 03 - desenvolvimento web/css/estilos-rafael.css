@@ -1,0 +1,50 @@
+body{
+    font-size: 1.25rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.imgesc{
+    float: left;
+}
+
+table, th, td   {
+    border: 3px solid var(--Main-Color);
+}
+
+a {
+    color: var(--Second-color);
+    font-weight: bold;
+}
+
+button{
+    color: var(--Second-color);
+    border: 0;
+    background-color: #aaa;
+    font-size: 1.13rem;
+    margin: 10px 0 0 0;
+}
+
+form label, button{
+    display: block;
+}
+
+img{
+    margin: 0 10px 0 0;
+}
+
+#imgest{
+    border: 3px solid var(--Main-Color);
+    margin: 0 0 0 15px;
+}
+
+th{
+    background-color: var(--Main-Color)
+}
+
+:root{
+    --Main-Color: #999
+}
+
+:root{
+    --Second-color: #000
+}

@@ -1,0 +1,11 @@
+C:\Users\unisanta\Desktop\Bim2Ex2\Bim2Ex1\bin\Debug\Bim2Ex1.exe.config
+C:\Users\unisanta\Desktop\Bim2Ex2\Bim2Ex1\bin\Debug\Bim2Ex1.exe
+C:\Users\unisanta\Desktop\Bim2Ex2\Bim2Ex1\bin\Debug\Bim2Ex1.pdb
+C:\Users\unisanta\Desktop\Bim2Ex2\Bim2Ex1\obj\Debug\Sem2Ex2.csproj.AssemblyReference.cache
+C:\Users\unisanta\Desktop\Bim2Ex2\Bim2Ex1\obj\Debug\Sem2Ex2.csproj.SuggestedBindingRedirects.cache
+C:\Users\unisanta\Desktop\Bim2Ex2\Bim2Ex1\obj\Debug\Bim2Ex1.Form1.resources
+C:\Users\unisanta\Desktop\Bim2Ex2\Bim2Ex1\obj\Debug\Bim2Ex1.Properties.Resources.resources
+C:\Users\unisanta\Desktop\Bim2Ex2\Bim2Ex1\obj\Debug\Sem2Ex2.csproj.GenerateResource.cache
+C:\Users\unisanta\Desktop\Bim2Ex2\Bim2Ex1\obj\Debug\Sem2Ex2.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\Bim2Ex2\Bim2Ex1\obj\Debug\Bim2Ex1.exe
+C:\Users\unisanta\Desktop\Bim2Ex2\Bim2Ex1\obj\Debug\Bim2Ex1.pdb

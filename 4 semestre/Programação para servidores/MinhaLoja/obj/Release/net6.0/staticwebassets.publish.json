@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "48B+TGPnKPXKTLLWuJrj/AOfMX/Gatf/UbSe+bjCb70=",
+  "Source": "MinhaLoja",
+  "BasePath": "_content/MinhaLoja",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MinhaLoja\\wwwroot",
+      "Source": "MinhaLoja",
+      "ContentRoot": "C:\\Users\\unisanta\\Desktop\\MinhaLoja\\wwwroot\\",
+      "BasePath": "_content/MinhaLoja",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\unisanta\\Desktop\\MinhaLoja\\wwwroot\\App_Data\\app.db",
+      "SourceId": "MinhaLoja",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\unisanta\\Desktop\\MinhaLoja\\wwwroot\\",
+      "BasePath": "_content/MinhaLoja",
+      "RelativePath": "App_Data/app.db",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\App_Data\\app.db"
+    }
+  ]
+}

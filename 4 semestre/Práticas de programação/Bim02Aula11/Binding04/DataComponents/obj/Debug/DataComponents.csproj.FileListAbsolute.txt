@@ -1,0 +1,108 @@
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim01Aula03\DataComponents\DataComponents\bin\Debug\BDVendas.mdb
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim01Aula03\DataComponents\DataComponents\bin\Debug\DataComponents.exe.config
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim01Aula03\DataComponents\DataComponents\bin\Debug\DataComponents.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim01Aula03\DataComponents\DataComponents\bin\Debug\DataComponents.pdb
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim01Aula03\DataComponents\DataComponents\obj\Debug\DataComponents.csprojResolveAssemblyReference.cache
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim01Aula03\DataComponents\DataComponents\obj\Debug\DataComponents.Form1.resources
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim01Aula03\DataComponents\DataComponents\obj\Debug\DataComponents.Properties.Resources.resources
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim01Aula03\DataComponents\DataComponents\obj\Debug\DataComponents.csproj.GenerateResource.Cache
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim01Aula03\DataComponents\DataComponents\obj\Debug\DataComponents.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim01Aula03\DataComponents\DataComponents\obj\Debug\DataComponents.pdb
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula04\DataComponents\DataComponents\bin\Debug\BDVendas.mdb
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula04\DataComponents\DataComponents\bin\Debug\DataComponents.exe.config
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula04\DataComponents\DataComponents\bin\Debug\DataComponents.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula04\DataComponents\DataComponents\bin\Debug\DataComponents.pdb
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula04\DataComponents\DataComponents\obj\Debug\DataComponents.csprojResolveAssemblyReference.cache
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula04\DataComponents\DataComponents\obj\Debug\DataComponents.Form1.resources
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula04\DataComponents\DataComponents\obj\Debug\DataComponents.Properties.Resources.resources
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula04\DataComponents\DataComponents\obj\Debug\DataComponents.csproj.GenerateResource.Cache
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula04\DataComponents\DataComponents\obj\Debug\DataComponents.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula04\DataComponents\DataComponents\obj\Debug\DataComponents.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula04\DataComponents\DataComponents\bin\Debug\BDVendas.mdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula04\DataComponents\DataComponents\bin\Debug\DataComponents.exe.config
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula04\DataComponents\DataComponents\bin\Debug\DataComponents.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula04\DataComponents\DataComponents\bin\Debug\DataComponents.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula04\DataComponents\DataComponents\obj\Debug\DataComponents.csprojAssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula04\DataComponents\DataComponents\obj\Debug\DataComponents.Form1.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula04\DataComponents\DataComponents\obj\Debug\DataComponents.Properties.Resources.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula04\DataComponents\DataComponents\obj\Debug\DataComponents.csproj.GenerateResource.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula04\DataComponents\DataComponents\obj\Debug\DataComponents.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula04\DataComponents\DataComponents\obj\Debug\DataComponents.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula04\DataComponents\DataComponents\obj\Debug\DataComponents.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula05\Binding2Chart\DataComponents\bin\Debug\BDVendas.mdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula05\Binding2Chart\DataComponents\bin\Debug\DataComponents.exe.config
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula05\Binding2Chart\DataComponents\bin\Debug\DataComponents.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula05\Binding2Chart\DataComponents\bin\Debug\DataComponents.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula05\Binding2Chart\DataComponents\obj\Debug\DataComponents.csprojAssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula05\Binding2Chart\DataComponents\obj\Debug\DataComponents.Form1.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula05\Binding2Chart\DataComponents\obj\Debug\DataComponents.Properties.Resources.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula05\Binding2Chart\DataComponents\obj\Debug\DataComponents.csproj.GenerateResource.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula05\Binding2Chart\DataComponents\obj\Debug\DataComponents.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula05\Binding2Chart\DataComponents\obj\Debug\DataComponents.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula05\Binding2Chart\DataComponents\obj\Debug\DataComponents.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\FederalEngenharia\Aula10\Exercicio03\DataComponents\bin\Debug\BDVendas.mdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\FederalEngenharia\Aula10\Exercicio03\DataComponents\bin\Debug\DataComponents.exe.config
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\FederalEngenharia\Aula10\Exercicio03\DataComponents\bin\Debug\DataComponents.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\FederalEngenharia\Aula10\Exercicio03\DataComponents\bin\Debug\DataComponents.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\FederalEngenharia\Aula10\Exercicio03\DataComponents\obj\Debug\DataComponents.csprojAssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\FederalEngenharia\Aula10\Exercicio03\DataComponents\obj\Debug\DataComponents.Form1.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\FederalEngenharia\Aula10\Exercicio03\DataComponents\obj\Debug\DataComponents.Properties.Resources.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\FederalEngenharia\Aula10\Exercicio03\DataComponents\obj\Debug\DataComponents.csproj.GenerateResource.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\FederalEngenharia\Aula10\Exercicio03\DataComponents\obj\Debug\DataComponents.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\FederalEngenharia\Aula10\Exercicio03\DataComponents\obj\Debug\DataComponents.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\FederalEngenharia\Aula10\Exercicio03\DataComponents\obj\Debug\DataComponents.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula10\Exercicio03\DataComponents\bin\Debug\BDVendas.mdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula10\Exercicio03\DataComponents\bin\Debug\DataComponents.exe.config
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula10\Exercicio03\DataComponents\bin\Debug\DataComponents.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula10\Exercicio03\DataComponents\bin\Debug\DataComponents.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula10\Exercicio03\DataComponents\obj\Debug\DataComponents.csprojAssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula10\Exercicio03\DataComponents\obj\Debug\DataComponents.Form1.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula10\Exercicio03\DataComponents\obj\Debug\DataComponents.Properties.Resources.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula10\Exercicio03\DataComponents\obj\Debug\DataComponents.csproj.GenerateResource.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula10\Exercicio03\DataComponents\obj\Debug\DataComponents.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula10\Exercicio03\DataComponents\obj\Debug\DataComponents.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Federal Engenharia\Bim01Aula10\Exercicio03\DataComponents\obj\Debug\DataComponents.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula10\Exercicio03\DataComponents\bin\Debug\BDVendas.mdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula10\Exercicio03\DataComponents\bin\Debug\DataComponents.exe.config
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula10\Exercicio03\DataComponents\bin\Debug\DataComponents.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula10\Exercicio03\DataComponents\bin\Debug\DataComponents.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula10\Exercicio03\DataComponents\obj\Debug\DataComponents.csproj.AssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula10\Exercicio03\DataComponents\obj\Debug\DataComponents.Form1.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula10\Exercicio03\DataComponents\obj\Debug\DataComponents.Properties.Resources.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula10\Exercicio03\DataComponents\obj\Debug\DataComponents.csproj.GenerateResource.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula10\Exercicio03\DataComponents\obj\Debug\DataComponents.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula10\Exercicio03\DataComponents\obj\Debug\DataComponents.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\FederalEngenharia\Bim01Aula10\Exercicio03\DataComponents\obj\Debug\DataComponents.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2023\SegundoSemestre\SantaLinguagem\Bim01Aula02\Binding04\DataComponents\bin\Debug\BDVendas.mdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2023\SegundoSemestre\SantaLinguagem\Bim01Aula02\Binding04\DataComponents\bin\Debug\DataComponents.exe.config
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2023\SegundoSemestre\SantaLinguagem\Bim01Aula02\Binding04\DataComponents\bin\Debug\DataComponents.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2023\SegundoSemestre\SantaLinguagem\Bim01Aula02\Binding04\DataComponents\bin\Debug\DataComponents.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2023\SegundoSemestre\SantaLinguagem\Bim01Aula02\Binding04\DataComponents\obj\Debug\DataComponents.csproj.AssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2023\SegundoSemestre\SantaLinguagem\Bim01Aula02\Binding04\DataComponents\obj\Debug\DataComponents.Form1.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2023\SegundoSemestre\SantaLinguagem\Bim01Aula02\Binding04\DataComponents\obj\Debug\DataComponents.Properties.Resources.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2023\SegundoSemestre\SantaLinguagem\Bim01Aula02\Binding04\DataComponents\obj\Debug\DataComponents.csproj.GenerateResource.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2023\SegundoSemestre\SantaLinguagem\Bim01Aula02\Binding04\DataComponents\obj\Debug\DataComponents.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2023\SegundoSemestre\SantaLinguagem\Bim01Aula02\Binding04\DataComponents\obj\Debug\DataComponents.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2023\SegundoSemestre\SantaLinguagem\Bim01Aula02\Binding04\DataComponents\obj\Debug\DataComponents.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2024\SegundoSemestre\SantaPraticaProgramacao\Bim02Aula11\Binding04\DataComponents\bin\Debug\BDVendas.mdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2024\SegundoSemestre\SantaPraticaProgramacao\Bim02Aula11\Binding04\DataComponents\bin\Debug\DataComponents.exe.config
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2024\SegundoSemestre\SantaPraticaProgramacao\Bim02Aula11\Binding04\DataComponents\bin\Debug\DataComponents.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2024\SegundoSemestre\SantaPraticaProgramacao\Bim02Aula11\Binding04\DataComponents\bin\Debug\DataComponents.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2024\SegundoSemestre\SantaPraticaProgramacao\Bim02Aula11\Binding04\DataComponents\obj\Debug\DataComponents.csproj.AssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2024\SegundoSemestre\SantaPraticaProgramacao\Bim02Aula11\Binding04\DataComponents\obj\Debug\DataComponents.Form1.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2024\SegundoSemestre\SantaPraticaProgramacao\Bim02Aula11\Binding04\DataComponents\obj\Debug\DataComponents.Properties.Resources.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2024\SegundoSemestre\SantaPraticaProgramacao\Bim02Aula11\Binding04\DataComponents\obj\Debug\DataComponents.csproj.GenerateResource.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2024\SegundoSemestre\SantaPraticaProgramacao\Bim02Aula11\Binding04\DataComponents\obj\Debug\DataComponents.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2024\SegundoSemestre\SantaPraticaProgramacao\Bim02Aula11\Binding04\DataComponents\obj\Debug\DataComponents.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2024\SegundoSemestre\SantaPraticaProgramacao\Bim02Aula11\Binding04\DataComponents\obj\Debug\DataComponents.pdb
+C:\Users\unisanta\Desktop\Bim02Aula11\Binding04\DataComponents\bin\Debug\BDVendas.mdb
+C:\Users\unisanta\Desktop\Bim02Aula11\Binding04\DataComponents\bin\Debug\DataComponents.exe.config
+C:\Users\unisanta\Desktop\Bim02Aula11\Binding04\DataComponents\bin\Debug\DataComponents.exe
+C:\Users\unisanta\Desktop\Bim02Aula11\Binding04\DataComponents\bin\Debug\DataComponents.pdb
+C:\Users\unisanta\Desktop\Bim02Aula11\Binding04\DataComponents\obj\Debug\DataComponents.csproj.SuggestedBindingRedirects.cache
+C:\Users\unisanta\Desktop\Bim02Aula11\Binding04\DataComponents\obj\Debug\DataComponents.Form1.resources
+C:\Users\unisanta\Desktop\Bim02Aula11\Binding04\DataComponents\obj\Debug\DataComponents.Properties.Resources.resources
+C:\Users\unisanta\Desktop\Bim02Aula11\Binding04\DataComponents\obj\Debug\DataComponents.csproj.GenerateResource.cache
+C:\Users\unisanta\Desktop\Bim02Aula11\Binding04\DataComponents\obj\Debug\DataComponents.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\Bim02Aula11\Binding04\DataComponents\obj\Debug\DataComponents.exe
+C:\Users\unisanta\Desktop\Bim02Aula11\Binding04\DataComponents\obj\Debug\DataComponents.pdb

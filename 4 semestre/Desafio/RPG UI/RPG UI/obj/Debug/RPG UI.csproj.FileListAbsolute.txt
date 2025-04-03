@@ -1,0 +1,204 @@
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\RPG UI.exe.config
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\RPG UI.exe
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\RPG UI.pdb
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\obj\Debug\RPG UI.csproj.AssemblyReference.cache
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\obj\Debug\RPG_UI.Properties.Resources.resources
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\obj\Debug\RPG UI.csproj.GenerateResource.cache
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\obj\Debug\RPG UI.csproj.CoreCompileInputs.cache
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\obj\Debug\RPG UI.exe
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\obj\Debug\RPG UI.pdb
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\obj\Debug\RPG_UI.FormHome.resources
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\obj\Debug\RPG_UI.FormLogin.resources
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\obj\Debug\RPG UI.csproj.Up2Date
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\System.Buffers.dll
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\System.Memory.dll
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\System.Text.Json.dll
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\System.ValueTuple.dll
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\System.Buffers.xml
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\System.Memory.xml
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\System.Text.Json.xml
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\System.ValueTuple.xml
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Bcl.TimeProvider.dll
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Bcl.TimeProvider.xml
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\obj\Debug\RPG_UI.FormMenu.resources
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\obj\Debug\RPG_UI.FormPlaceholder.resources
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\obj\Debug\RPG_UI.FormVerHabilidades.resources
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\obj\Debug\RPG_UI.FormViewHabilidade.resources
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\obj\Debug\RPG_UI.FormRegistrar.resources
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\obj\Debug\RPG_UI.FormDeleta.resources
+C:\Users\raraf\Desktop\Desafio\RPG UI\RPG UI\obj\Debug\RPG_UI.FormCriarEditar.resources
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\RPG UI.exe.config
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\RPG UI.exe
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\RPG UI.pdb
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Bcl.TimeProvider.dll
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\System.Buffers.dll
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\System.Memory.dll
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\System.Text.Json.dll
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\System.ValueTuple.dll
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Bcl.TimeProvider.xml
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\System.Buffers.xml
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\System.Memory.xml
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\System.Text.Json.xml
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\bin\Debug\System.ValueTuple.xml
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\obj\Debug\RPG UI.csproj.AssemblyReference.cache
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\obj\Debug\RPG_UI.FormCriarEditar.resources
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\obj\Debug\RPG_UI.FormDeleta.resources
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\obj\Debug\RPG_UI.FormHome.resources
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\obj\Debug\RPG_UI.FormLogin.resources
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\obj\Debug\RPG_UI.FormMenu.resources
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\obj\Debug\RPG_UI.FormPlaceholder.resources
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\obj\Debug\RPG_UI.FormRegistrar.resources
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\obj\Debug\RPG_UI.FormVerHabilidades.resources
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\obj\Debug\RPG_UI.FormViewHabilidade.resources
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\obj\Debug\RPG_UI.Properties.Resources.resources
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\obj\Debug\RPG UI.csproj.GenerateResource.cache
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\obj\Debug\RPG UI.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\obj\Debug\RPG UI.csproj.Up2Date
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\obj\Debug\RPG UI.exe
+C:\Users\unisanta\Desktop\Desafio\RPG UI\RPG UI\obj\Debug\RPG UI.pdb
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\bin\Debug\RPG UI.exe.config
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\bin\Debug\RPG UI.exe
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\bin\Debug\RPG UI.pdb
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Bcl.TimeProvider.dll
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\bin\Debug\System.Buffers.dll
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\bin\Debug\System.Memory.dll
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\bin\Debug\System.Text.Json.dll
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\bin\Debug\System.ValueTuple.dll
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Bcl.TimeProvider.xml
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\bin\Debug\System.Buffers.xml
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\bin\Debug\System.Memory.xml
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\bin\Debug\System.Text.Json.xml
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\bin\Debug\System.ValueTuple.xml
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\obj\Debug\RPG UI.csproj.AssemblyReference.cache
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\obj\Debug\RPG_UI.FormCriarEditar.resources
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\obj\Debug\RPG_UI.FormDeleta.resources
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\obj\Debug\RPG_UI.FormHome.resources
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\obj\Debug\RPG_UI.FormLogin.resources
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\obj\Debug\RPG_UI.FormMenu.resources
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\obj\Debug\RPG_UI.FormPlaceholder.resources
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\obj\Debug\RPG_UI.FormRegistrar.resources
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\obj\Debug\RPG_UI.FormVerHabilidades.resources
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\obj\Debug\RPG_UI.FormViewHabilidade.resources
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\obj\Debug\RPG_UI.Properties.Resources.resources
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\obj\Debug\RPG UI.csproj.GenerateResource.cache
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\obj\Debug\RPG UI.csproj.CoreCompileInputs.cache
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\obj\Debug\RPG UI.csproj.Up2Date
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\obj\Debug\RPG UI.exe
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\obj\Debug\RPG UI.pdb
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\obj\Debug\RPG_UI.FormVoid.resources
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\obj\Debug\RPG_UI.Forms.FormAdminWindow.resources
+C:\Users\raraf\Desktop\santa\quarto semestre\Desafio\RPG UI\RPG UI\obj\Debug\RPG_UI.Forms.FormViewUser.resources

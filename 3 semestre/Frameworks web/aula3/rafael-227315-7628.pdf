@@ -1,0 +1,14 @@
+Rafael Rodrigues Francelino - 227315 - 7628
+
+1-) a classe tarefa serve como um "manual de intruções" que pode ser instanciado em objetos do tipo "tarefa", ele é usado para definir o status e a descrição de uma tarefa
+2-) o READ_tarefas serve para fazer a leitura das tarefas que foram adicionadas
+3-) ele serve para chamar o READ_tarefas assim que o objeto em que ele está inserido é chamado
+4-) ele cria novos objetos
+5-) ele faz com que um loop seja criado
+6-) ela recebe a descrição do objeto atual do loop e os mostra
+7-) foi usado no app.component.html (view) para mostrar os conteudos da tarefaDoLoop
+8-) ele foi criado para criar novas tarefas
+9-) estão sendo armazenadas como objetos do tipo tarefa
+10-) utilizando a #
+11-) ele serve como um event listener, esperando até que o botão seja pressionado para realizar suas instruções 
+12-) porque um deles é global e o outro é para o component	

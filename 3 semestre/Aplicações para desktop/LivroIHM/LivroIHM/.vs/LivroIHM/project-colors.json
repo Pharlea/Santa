@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "b714cb14-1ba9-42bd-acc9-1191ece8a57f": {
+      "ProjectGuid": "b714cb14-1ba9-42bd-acc9-1191ece8a57f",
+      "DisplayName": "LivroIHM",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

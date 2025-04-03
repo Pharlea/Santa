@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "Hash": "VRxhS/4r/1cADYy/okU9iU9oPiEU4UCot8gZFg7k8jY=",
+  "Source": "RPG API",
+  "BasePath": "_content/RPG API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RPG API\\wwwroot",
+      "Source": "RPG API",
+      "ContentRoot": "C:\\Users\\unisanta\\Desktop\\Nova pasta\\Desafio\\RPG API\\RPG API\\wwwroot\\",
+      "BasePath": "_content/RPG API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\unisanta\\Desktop\\Nova pasta\\Desafio\\RPG API\\RPG API\\wwwroot\\Images\\Blank.png",
+      "SourceId": "RPG API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\unisanta\\Desktop\\Nova pasta\\Desafio\\RPG API\\RPG API\\wwwroot\\",
+      "BasePath": "_content/RPG API",
+      "RelativePath": "Images/Blank#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iqx1x2mcwt",
+      "Integrity": "9jXxeSFCkijJlu7DI5IYVn8zyzvUCuPvKVho+HDHuNY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Blank.png"
+    },
+    {
+      "Identity": "C:\\Users\\unisanta\\Desktop\\Nova pasta\\Desafio\\RPG API\\RPG API\\wwwroot\\Images\\Config icon (3).png",
+      "SourceId": "RPG API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\unisanta\\Desktop\\Nova pasta\\Desafio\\RPG API\\RPG API\\wwwroot\\",
+      "BasePath": "_content/RPG API",
+      "RelativePath": "Images/Config icon (3)#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5lzj8gzrwj",
+      "Integrity": "F40uiC6E4SKzp4mN769ugy5LiDXuXbwDJA/WLU54LfI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Config icon (3).png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Images/Blank.iqx1x2mcwt.png",
+      "AssetFile": "C:\\Users\\unisanta\\Desktop\\Nova pasta\\Desafio\\RPG API\\RPG API\\wwwroot\\Images\\Blank.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67344"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9jXxeSFCkijJlu7DI5IYVn8zyzvUCuPvKVho+HDHuNY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 03 Nov 2024 20:02:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iqx1x2mcwt"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Blank.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9jXxeSFCkijJlu7DI5IYVn8zyzvUCuPvKVho+HDHuNY="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Blank.png",
+      "AssetFile": "C:\\Users\\unisanta\\Desktop\\Nova pasta\\Desafio\\RPG API\\RPG API\\wwwroot\\Images\\Blank.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67344"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9jXxeSFCkijJlu7DI5IYVn8zyzvUCuPvKVho+HDHuNY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 03 Nov 2024 20:02:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9jXxeSFCkijJlu7DI5IYVn8zyzvUCuPvKVho+HDHuNY="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Config icon (3).5lzj8gzrwj.png",
+      "AssetFile": "C:\\Users\\unisanta\\Desktop\\Nova pasta\\Desafio\\RPG API\\RPG API\\wwwroot\\Images\\Config icon (3).png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1613"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F40uiC6E4SKzp4mN769ugy5LiDXuXbwDJA/WLU54LfI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 03 Nov 2024 21:11:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5lzj8gzrwj"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Config icon (3).png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-F40uiC6E4SKzp4mN769ugy5LiDXuXbwDJA/WLU54LfI="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Config icon (3).png",
+      "AssetFile": "C:\\Users\\unisanta\\Desktop\\Nova pasta\\Desafio\\RPG API\\RPG API\\wwwroot\\Images\\Config icon (3).png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1613"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F40uiC6E4SKzp4mN769ugy5LiDXuXbwDJA/WLU54LfI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 03 Nov 2024 21:11:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-F40uiC6E4SKzp4mN769ugy5LiDXuXbwDJA/WLU54LfI="
+        }
+      ]
+    }
+  ]
+}

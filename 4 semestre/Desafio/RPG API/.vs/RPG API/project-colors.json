@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d3157580-94a2-42dd-a46f-37b387c54114": {
+      "ProjectGuid": "d3157580-94a2-42dd-a46f-37b387c54114",
+      "DisplayName": "RPG API",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

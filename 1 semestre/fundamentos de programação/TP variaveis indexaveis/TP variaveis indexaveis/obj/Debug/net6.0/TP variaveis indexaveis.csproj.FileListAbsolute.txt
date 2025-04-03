@@ -1,0 +1,15 @@
+C:\Users\unisanta\Desktop\TP variaveis indexaveis\TP variaveis indexaveis\bin\Debug\net6.0\TP variaveis indexaveis.exe
+C:\Users\unisanta\Desktop\TP variaveis indexaveis\TP variaveis indexaveis\bin\Debug\net6.0\TP variaveis indexaveis.deps.json
+C:\Users\unisanta\Desktop\TP variaveis indexaveis\TP variaveis indexaveis\bin\Debug\net6.0\TP variaveis indexaveis.runtimeconfig.json
+C:\Users\unisanta\Desktop\TP variaveis indexaveis\TP variaveis indexaveis\bin\Debug\net6.0\TP variaveis indexaveis.dll
+C:\Users\unisanta\Desktop\TP variaveis indexaveis\TP variaveis indexaveis\bin\Debug\net6.0\ref\TP variaveis indexaveis.dll
+C:\Users\unisanta\Desktop\TP variaveis indexaveis\TP variaveis indexaveis\bin\Debug\net6.0\TP variaveis indexaveis.pdb
+C:\Users\unisanta\Desktop\TP variaveis indexaveis\TP variaveis indexaveis\obj\Debug\net6.0\TP variaveis indexaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unisanta\Desktop\TP variaveis indexaveis\TP variaveis indexaveis\obj\Debug\net6.0\TP variaveis indexaveis.AssemblyInfoInputs.cache
+C:\Users\unisanta\Desktop\TP variaveis indexaveis\TP variaveis indexaveis\obj\Debug\net6.0\TP variaveis indexaveis.AssemblyInfo.cs
+C:\Users\unisanta\Desktop\TP variaveis indexaveis\TP variaveis indexaveis\obj\Debug\net6.0\TP variaveis indexaveis.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\TP variaveis indexaveis\TP variaveis indexaveis\obj\Debug\net6.0\TP variaveis indexaveis.dll
+C:\Users\unisanta\Desktop\TP variaveis indexaveis\TP variaveis indexaveis\obj\Debug\net6.0\ref\TP variaveis indexaveis.dll
+C:\Users\unisanta\Desktop\TP variaveis indexaveis\TP variaveis indexaveis\obj\Debug\net6.0\TP variaveis indexaveis.pdb
+C:\Users\unisanta\Desktop\TP variaveis indexaveis\TP variaveis indexaveis\obj\Debug\net6.0\TP variaveis indexaveis.genruntimeconfig.cache
+C:\Users\unisanta\Desktop\TP variaveis indexaveis\TP variaveis indexaveis\obj\Debug\net6.0\TP variaveis indexaveis.csproj.AssemblyReference.cache

@@ -1,0 +1,161 @@
+NOTAS HTML
+
+	• tag: <"elemento" "atributo(s)">
+	• key words pro google para descobrir o que cada coisa faz: mdn html [tag buscado]
+	• HMTL -> hypertext   markup   language
+                    (link)  (marcação) (linguagem) = linguagem de marcação e links
+	• validação: validator.w3.org
+	• https: protocolo  que transfere as páginas entre diferentes computadores
+	• para testar forms: https://professores.unisanta.br/sobrino/scripts/mostra-v2.php
+	• elementos block-level têm um domino completo sobre a área horizontal na qual eles se localizam. (display: block)
+	• elementos inline não têm dominios, eles aparecem sempre um do lado do outro até que se diga o contrário (display: line)
+	• DOM - document object model
+	• API - interface de programação de aplicações
+
+ATRIBUTO
+
+	• class - usado para selecionar algo específico para o css
+	• style - usado da mesma forma forma que os seletores, porém é mais alto na hierarquia que eles (não usar de preferência)
+	• href = hypertext reference - serve para encontrar arquivos na pasta
+	• target="_blank" serve para abrir a página em outra aba ou janela (mais provavealmente aba)
+	• src - usado para buscar a imagem na pasta, com relação a pasta do projeto
+	• alt - usado para dar uma descrição a imagens
+	• lang - usado para dizer a linguagem. pt-br é o valor de português
+	• html - o tipo de um arquivo de um documento html
+	• rel - usado para dizer a relação entre os arquivos
+	• type - usado para dizer qual o tipo de entrada, por exemplo: "text" que serve para entrada de textos, "password" para senhas, "submit" para enviar os dados, "radio" para selecionar apenas uma opção
+	• name - serve para dizer para onde um input vai 
+	• id - serve para usar o id da folha de estilos
+	• for - serve para dizer que é "para algo"
+	• size - determina o tamanho que a caixa vai aparecer na tela (de preferência use o css)
+	• maxlength - determina o número máximo de caracteres que pode ser escrito na caixa de texto
+	• placeholder - serve para deixar um texto dentro da caixa de textos, por exemplo: usuário
+	• autofocus - serve para colocar o cursor dentro da caixa de texto logo ao abrir a página
+	• value - serve para indicar qual o valor dele, exemplo: "enviar"
+	• method - serve para o decidir o método de envio das informaões, exemplo: "get" serve para enviar uma informação para a página, "post" serve para enviar informações de forma masi segura
+	• required - faz com que o usuário seja obrigado a a preencher o espaço
+	• rows - número de linhas
+    	• cols - número de colunas
+    	• async - serve para renderizar por último
+
+ATALHOS
+
+    	• (ctrl + (+/-)) zoom in/out 
+    	• (ctrl + B ocultar/ exibir explorador 
+	• (alt + Z) quebra de linhas 
+    	• (ctrl + N) novo arquivo em branco
+    	• (shift + tab) um tab ao contrário
+    	• (ctrl + ;) comentar 
+    	• (ctrl + h) procurar e substituir
+    	• (alt + shift + f) alinha o código
+    	• (ctrl + alt + N) - testar o código.
+    	• (ctrl + ,) - abre as configurações do visual studio code (clear previos output limpa automaticamente o painel de saída).
+    	• (ctrl + J) - abre e fecha a janela de saída.
+    	• (alt + ↓/↑) - levar a parte selecionada para cima ou para baixo. 	
+
+TAGS
+
+    	• <a> = âncora; serve para links 
+    	• <br> é a quebra de linha
+    	• <address>  O elemento HTML <address> fornece informações de contato para seu ancestral <article> ou <body> mais próximo; no segundo caso, ele se aplica ao documento inteiro.
+    	• <p> define um parágrafo
+    	• <th> = título das tabelas
+    	• <td> = quantidade de "colunas"
+    	• <tr> = linhas da tabela
+	• <table> = tabela
+    	• <i> ou <em> serve para deixar o texto em itálico (mas o segundo permite que seja entendido que o termo é mais importante)
+    	• <b> ou <strong> vem de bold, deixa o texto em negrito (mas o segundo permite que seja entendido que o termo é mais importante)
+    	• <img> serve para carregar uma imagem; 
+    	• elementos vão de <h1> até <h6> aumentando a importâcia a cada número, sendo que o comum seja aumentar em 1 cada vez que estiver relacionado com o tópico anterior, ou seja ele vai estar subordinado ao título.
+    	• <body> é o "corpo" do site
+    	• <title> é o titulo do site, (que aparece na aba dos sites)
+    	• <meta charset="UTF-8"> esse é o padrão de codificação usado, com ele os simbolos do portugues como "ç" podem ser entendidos em qualquer navegador
+    	• <head> é a "cabeça" do site
+    	• <html> é um elemnento usado no começo e fim de todo o código hmtl
+    	• <!doctype> usado para declarar o tipo de arquivo do site, sempre é a primeira tag (no caso desse arquivo que é html é utilizado justamente o atributo hmtl)
+    	• <ul> marcadores - lista não ordenada (com as bolinhas)
+    	• <li> - itens listados, uma tag filha da ul (e talvez da ol???) 
+    	• <ol> numeração - lista ordenada (com números)
+    	• <style> serve para fazer a folha de estilos   
+    	• <link> serve para conectar arquivos;
+    	• <form> ?
+    	• <input> serve como uma caixa para entrar dados
+    	• <label> serve para marcar qual vai ser a informação antes do input, exemplo: usuário
+    	• <button> serve para criar um botão
+    	• <select> serve para abrir um dropdown
+    	• <option> serve para dizer opções dentro do dropdown
+    	• <fieldset> serve para criar um campo para colocar botões de rádio e checkboxes
+    	• <legend> serve para colocar o título no fildset
+	• <script> serve para linkar o código javascript à página 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+	• jigsaw.w3.org/css-validator/ = validar a folha de estilos
+	• css = cascading style sheet (folhas de estilo em cascata)
+	• a unidade é sempre colada ao valor
+	• propriedades com nomes compostos possuem hífen
+	• a folha de estilos costuma ser externa
+	• é iniciado com <style>
+	• a pseudoclasse te permite alterar o estado do elemento
+	• box model: border, margin e padding
+	• mdn css [elemento buscado]
+	• todos os elementos que estão dentro de outros elementos são descendentes deles
+	• ">" é o combinador de filhos
+	• ao usar um (elemento "espaço" elemento) você pode selecionar mais especificamente o que mudar (seletor de tipo)
+	• ao usar um ponto (.) antes do elemento você pode criar seu próprio atributo/classe/elemento (seletor de classe)
+	• "#" é um seletor id especial (id) que funciona da mesma forma que o ponto, porém cada um deles pode apenas ser usado apenas uma única vez 
+	•hierárquia de ordem de seletores (especificidade): ID (1,0,0) - CLASSE (0,1,0) - SELETOR DE TIPO (0,0,1); cada vez que um seletor aparece, você soma 1 para o tipo de seletor (é possível mudar a hierarquia com !important[EVITAR USAR])
+	• rem é unidade relativa de fontes, é preferível usar rem ao invés de px
+
+ELEMENTOS
+	• font-family: estilo de fonte
+	• font-size: o tamanho da fonte (em pixels prioritariamente)
+	• color: escolher a cor (em hexadecimal [RRGGBB{se forem todos iguais, pode-se reduzir para RGB}])
+	• font-weight: serve para colocar em negrito (normalmente se usa o bold)
+	• float: fazer "flutuar" na direita ou esquerda do texto
+	• border: escolhe o tamanho, tipo e cor da borda
+	• margin: é o tamanho da margem que pode ser decidido por direção
+	• padding: espaço entre o elemento e a borda
+	• background-color: usado para selecionar uma cor de fundo de um elemento
+	• display: pode ser usado para mudar a forma de exibição dos elementos entre serem blocos ou linhas (e entre outros?)
+
+PSEUDOCLASSES
+	• hover: pode alterar o estado de algum elemento (como por exemplo fazer um link mudar de cor ao cursar passar por cima)
+	• hoot: ele representa o html e pode ser usada para criar variáveis globais (usar para aglutinar atributos); para chamar o atributo do hoot, usar: [var()]
+
+ESTILOS PARA REGRAS
+
+"elemento[seletor]"(: "pseudoclasse")(,"elemento2[seletor2]") (*espaço* "elementodescendente"){
+"propriedade": "valor";
+"propriedade2": "valor2";
+}
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ANOTAÇÕES JAVASCRIPT
+
+	• (não usar) declaração ímplicita de variável: ao usar uma variável mesmo que ela não exista ela é implicitamente declarada se tornando uma variável global.
+	• caso seja usado no começo do código {"use strict";} o código entra em modo estrito, onde não se pode mais usar uma programação "desrespeitável", como por exemplo a declaração implícita de variável.
+	• para declarar uma variável não se define o tipo da variável. o tipo dela é o mesmo do valor atribuido.
+	• hoisting é quando a declaração das variáveis vem depois do uso delas mas ao rodar o programa ela é levada pra cima.
+	• entre `` é possível usar ${} para servir de placeholder.
+	• {===} é um operador lógico para estritamente igual (ou seja, tanto o valor quanto o tipo devem ser iguais).
+	• operador condicional ternário {x = (condição)? {caminho do verdadeiro} : {caminho dos falsos};}
+	• ao colocar + na frente da variável que veio de um form ela se converte para um number ao invés da string que é o padrão.
+
+METODOS:
+
+	• [console.log] - mostrar na tela.
+	• [var] - (não usar) declarar variável global.
+	• [let] - criar variáveis locais.
+	• [const] - criar variáveis locais de valor constante (não muda o valor).
+	• [.toFixed] - serve para limitar o número de casas depois da vírgula.
+	• [.addEventListener]- fica esperando algo acontecer (como dar um clique ou passar o mouse por cima de algo específico)
+	• [fetch] - método que permite a solitação de um recurso. (argumento obrigatório: a URL onde o recurso está) (o método retorna uma promisse)
+	• [.typeof] - verifica o tipo do valor que está sendo armazenado na variável.
+	• [await] - espera receber uma resposta antes de continuar executando o código (colocar async na função que pode realizar o await)
+	• [.json] - transforma em um objeto os dados json que chegam como response.
+	• [try] / [catch] - o try serve para realizar o código caso não existam erros enquanto o catch mostra o erro.
+	• [.getElementById] - escolhe um id que está em uma tag html.
+	• [push] - Este método adiciona itens ao final de um array.
+	• [pop] - Este método remove o último item de um array e o retorna.
+	• [shift] - Este método remove o primeiro item de um array e o retorna.
+	• [unshift] - Este método adiciona um ou vários itens ao início de um array. 
+	• [splice] - Este método altera um array, adicionando, removendo e inserindo elementos.
+

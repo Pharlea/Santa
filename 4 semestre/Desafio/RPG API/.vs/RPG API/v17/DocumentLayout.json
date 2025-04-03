@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\unisanta\\Desktop\\Nova pasta\\Desafio\\RPG API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3157580-94A2-42DD-A46F-37B387C54114}|RPG API\\RPG API.csproj|c:\\users\\unisanta\\desktop\\nova pasta\\desafio\\rpg api\\rpg api\\viewmodels\\habilidadeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3157580-94A2-42DD-A46F-37B387C54114}|RPG API\\RPG API.csproj|solutionrelative:rpg api\\viewmodels\\habilidadeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3157580-94A2-42DD-A46F-37B387C54114}|RPG API\\RPG API.csproj|c:\\users\\unisanta\\desktop\\nova pasta\\desafio\\rpg api\\rpg api\\migrations\\20241101000834_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3157580-94A2-42DD-A46F-37B387C54114}|RPG API\\RPG API.csproj|solutionrelative:rpg api\\migrations\\20241101000834_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3157580-94A2-42DD-A46F-37B387C54114}|RPG API\\RPG API.csproj|c:\\users\\unisanta\\desktop\\nova pasta\\desafio\\rpg api\\rpg api\\controllers\\habilidadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3157580-94A2-42DD-A46F-37B387C54114}|RPG API\\RPG API.csproj|solutionrelative:rpg api\\controllers\\habilidadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3157580-94A2-42DD-A46F-37B387C54114}|RPG API\\RPG API.csproj|c:\\users\\unisanta\\desktop\\nova pasta\\desafio\\rpg api\\rpg api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3157580-94A2-42DD-A46F-37B387C54114}|RPG API\\RPG API.csproj|solutionrelative:rpg api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3157580-94A2-42DD-A46F-37B387C54114}|RPG API\\RPG API.csproj|c:\\users\\unisanta\\desktop\\nova pasta\\desafio\\rpg api\\rpg api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3157580-94A2-42DD-A46F-37B387C54114}|RPG API\\RPG API.csproj|solutionrelative:rpg api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HabilidadeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\unisanta\\Desktop\\Nova pasta\\Desafio\\RPG API\\RPG API\\ViewModels\\HabilidadeViewModel.cs",
+              "RelativeDocumentMoniker": "RPG API\\ViewModels\\HabilidadeViewModel.cs",
+              "ToolTip": "C:\\Users\\unisanta\\Desktop\\Nova pasta\\Desafio\\RPG API\\RPG API\\ViewModels\\HabilidadeViewModel.cs",
+              "RelativeToolTip": "RPG API\\ViewModels\\HabilidadeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T14:08:05.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20241101000834_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\unisanta\\Desktop\\Nova pasta\\Desafio\\RPG API\\RPG API\\Migrations\\20241101000834_InitialCreate.cs",
+              "RelativeDocumentMoniker": "RPG API\\Migrations\\20241101000834_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\unisanta\\Desktop\\Nova pasta\\Desafio\\RPG API\\RPG API\\Migrations\\20241101000834_InitialCreate.cs",
+              "RelativeToolTip": "RPG API\\Migrations\\20241101000834_InitialCreate.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T14:07:55.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\unisanta\\Desktop\\Nova pasta\\Desafio\\RPG API\\RPG API\\Program.cs",
+              "RelativeDocumentMoniker": "RPG API\\Program.cs",
+              "ToolTip": "C:\\Users\\unisanta\\Desktop\\Nova pasta\\Desafio\\RPG API\\RPG API\\Program.cs",
+              "RelativeToolTip": "RPG API\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T14:07:29.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HabilidadeController.cs",
+              "DocumentMoniker": "C:\\Users\\unisanta\\Desktop\\Nova pasta\\Desafio\\RPG API\\RPG API\\Controllers\\HabilidadeController.cs",
+              "RelativeDocumentMoniker": "RPG API\\Controllers\\HabilidadeController.cs",
+              "ToolTip": "C:\\Users\\unisanta\\Desktop\\Nova pasta\\Desafio\\RPG API\\RPG API\\Controllers\\HabilidadeController.cs",
+              "RelativeToolTip": "RPG API\\Controllers\\HabilidadeController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAwwCEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:14:10.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\unisanta\\Desktop\\Nova pasta\\Desafio\\RPG API\\RPG API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "RPG API\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\unisanta\\Desktop\\Nova pasta\\Desafio\\RPG API\\RPG API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "RPG API\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAIwDoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:07:34.007Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

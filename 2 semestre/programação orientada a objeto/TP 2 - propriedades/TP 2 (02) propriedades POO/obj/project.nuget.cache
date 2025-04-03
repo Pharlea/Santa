@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KZy5X2wlwCsb0RwHgJxuK6/fuZryXGB1Mmis1Y5qLEii9O1tB9hGWpvQRKtEEkYl1nP+n7tQULJcZQzTqJj2xw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\raraf\\Desktop\\programação orientada a objeto\\TP 2 - propriedades\\TP 2 (02) propriedades POO\\TP 2 (02) propriedades POO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\raraf\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.23\\microsoft.windowsdesktop.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\raraf\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.23\\microsoft.netcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\raraf\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.23\\microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\raraf\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.23\\microsoft.netcore.app.host.win-x64.6.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}

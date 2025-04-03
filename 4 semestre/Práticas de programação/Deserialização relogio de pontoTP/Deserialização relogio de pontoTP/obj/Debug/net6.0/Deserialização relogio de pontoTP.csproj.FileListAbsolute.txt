@@ -1,0 +1,15 @@
+C:\Users\unisanta\Desktop\Deserialização relogio de pontoTP\Deserialização relogio de pontoTP\bin\Debug\net6.0\Deserialização relogio de pontoTP.exe
+C:\Users\unisanta\Desktop\Deserialização relogio de pontoTP\Deserialização relogio de pontoTP\bin\Debug\net6.0\Deserialização relogio de pontoTP.deps.json
+C:\Users\unisanta\Desktop\Deserialização relogio de pontoTP\Deserialização relogio de pontoTP\bin\Debug\net6.0\Deserialização relogio de pontoTP.runtimeconfig.json
+C:\Users\unisanta\Desktop\Deserialização relogio de pontoTP\Deserialização relogio de pontoTP\bin\Debug\net6.0\Deserialização relogio de pontoTP.dll
+C:\Users\unisanta\Desktop\Deserialização relogio de pontoTP\Deserialização relogio de pontoTP\bin\Debug\net6.0\ref\Deserialização relogio de pontoTP.dll
+C:\Users\unisanta\Desktop\Deserialização relogio de pontoTP\Deserialização relogio de pontoTP\bin\Debug\net6.0\Deserialização relogio de pontoTP.pdb
+C:\Users\unisanta\Desktop\Deserialização relogio de pontoTP\Deserialização relogio de pontoTP\obj\Debug\net6.0\Deserialização relogio de pontoTP.csproj.AssemblyReference.cache
+C:\Users\unisanta\Desktop\Deserialização relogio de pontoTP\Deserialização relogio de pontoTP\obj\Debug\net6.0\Deserialização relogio de pontoTP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unisanta\Desktop\Deserialização relogio de pontoTP\Deserialização relogio de pontoTP\obj\Debug\net6.0\Deserialização relogio de pontoTP.AssemblyInfoInputs.cache
+C:\Users\unisanta\Desktop\Deserialização relogio de pontoTP\Deserialização relogio de pontoTP\obj\Debug\net6.0\Deserialização relogio de pontoTP.AssemblyInfo.cs
+C:\Users\unisanta\Desktop\Deserialização relogio de pontoTP\Deserialização relogio de pontoTP\obj\Debug\net6.0\Deserialização relogio de pontoTP.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\Deserialização relogio de pontoTP\Deserialização relogio de pontoTP\obj\Debug\net6.0\Deserialização relogio de pontoTP.dll
+C:\Users\unisanta\Desktop\Deserialização relogio de pontoTP\Deserialização relogio de pontoTP\obj\Debug\net6.0\ref\Deserialização relogio de pontoTP.dll
+C:\Users\unisanta\Desktop\Deserialização relogio de pontoTP\Deserialização relogio de pontoTP\obj\Debug\net6.0\Deserialização relogio de pontoTP.pdb
+C:\Users\unisanta\Desktop\Deserialização relogio de pontoTP\Deserialização relogio de pontoTP\obj\Debug\net6.0\Deserialização relogio de pontoTP.genruntimeconfig.cache

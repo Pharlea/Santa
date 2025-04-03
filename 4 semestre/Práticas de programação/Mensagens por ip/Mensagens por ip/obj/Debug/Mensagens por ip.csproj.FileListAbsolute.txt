@@ -1,0 +1,10 @@
+C:\Users\raraf\Desktop\Mensagens por ip\Mensagens por ip\bin\Debug\Mensagens por ip.exe.config
+C:\Users\raraf\Desktop\Mensagens por ip\Mensagens por ip\bin\Debug\Mensagens por ip.exe
+C:\Users\raraf\Desktop\Mensagens por ip\Mensagens por ip\bin\Debug\Mensagens por ip.pdb
+C:\Users\raraf\Desktop\Mensagens por ip\Mensagens por ip\obj\Debug\Mensagens por ip.csproj.AssemblyReference.cache
+C:\Users\raraf\Desktop\Mensagens por ip\Mensagens por ip\obj\Debug\Mensagens_por_ip.Form1.resources
+C:\Users\raraf\Desktop\Mensagens por ip\Mensagens por ip\obj\Debug\Mensagens_por_ip.Properties.Resources.resources
+C:\Users\raraf\Desktop\Mensagens por ip\Mensagens por ip\obj\Debug\Mensagens por ip.csproj.GenerateResource.cache
+C:\Users\raraf\Desktop\Mensagens por ip\Mensagens por ip\obj\Debug\Mensagens por ip.csproj.CoreCompileInputs.cache
+C:\Users\raraf\Desktop\Mensagens por ip\Mensagens por ip\obj\Debug\Mensagens por ip.exe
+C:\Users\raraf\Desktop\Mensagens por ip\Mensagens por ip\obj\Debug\Mensagens por ip.pdb

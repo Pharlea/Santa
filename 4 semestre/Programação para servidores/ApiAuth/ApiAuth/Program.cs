@@ -1,0 +1,79 @@
+using ApiAuth;
+using ApiAuth.Models;
+using ApiAuth.Repositories;
+using ApiAuth.Services;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
+using System.Security.Claims;
+using System.Text;
+
+var builder = WebApplication.CreateBuilder(args);
+
+// Configuração para habilitar autenticação
+var key = Encoding.ASCII.GetBytes(Setting.Secret);
+
+builder.Services.AddAuthentication(x =>
+{
+    //Definir o esquema de autenticação
+    x.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+    // É a forma como ele vai interrogar a requisiação para saber como lidar e saber onde está o token 
+    x.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+}).AddJwtBearer(x =>
+{
+    // Configurar os parametros do Token
+    x.TokenValidationParameters = new TokenValidationParameters
+    {
+        ValidateIssuerSigningKey = true, // Validar a chave de assinatura
+        IssuerSigningKey = new SymmetricSecurityKey(key), // Como ele valida essa chave
+        ValidateIssuer = false,
+        ValidateAudience = false
+    };
+});
+
+// Configuração para tratar autorização
+builder.Services.AddAuthorization(options =>
+{
+    options.AddPolicy("Admin", policy => policy.RequireRole("gerente"));
+    options.AddPolicy("Estagiario", policy => policy.RequireRole("estagiario"));
+});
+
+// Isso já tava
+var app = builder.Build();
+
+// Precisa addd nessa ordem
+app.UseAuthentication();
+app.UseAuthorization();
+
+
+// Metodos
+app.MapPost("/login", (User umUsuario) => {
+    //ir no banco buscar se o usuário existe e se a senha é igual
+    var usuario = UserRepository.Get(umUsuario.UserName, umUsuario.Password);
+
+    if (usuario == null) { return Results.NotFound(new {message = "Usuario ou senha inválido!"}); }
+
+    var token = TokenService.GenerateToken(usuario);
+
+    return Results.Ok(token);
+});
+
+app.MapGet("/teste", () =>
+{
+    return Results.Ok("Funcionou sem autenticar!");
+});
+
+app.MapGet("/autenticado", () =>
+{
+    return Results.Ok("Funcionou autenticado!");
+}).RequireAuthorization();
+
+app.MapGet("/saldo", (ClaimsPrincipal user) =>
+{
+    /*buscar algo no banco referente ao usuário, 
+     posso usar esse argumento ClaimsPrincipal para obter
+     informações do usuário contidas no token
+     EX: user.Identity.Name;*/
+
+    return Results.Ok("Saldo atual: R$ 230,00");
+}).RequireAuthorization("Admin");
+app.Run();

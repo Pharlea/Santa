@@ -1,0 +1,15 @@
+C:\Users\unisanta\Desktop\recursividade\recursividade\bin\Debug\net6.0\recursividade.exe
+C:\Users\unisanta\Desktop\recursividade\recursividade\bin\Debug\net6.0\recursividade.deps.json
+C:\Users\unisanta\Desktop\recursividade\recursividade\bin\Debug\net6.0\recursividade.runtimeconfig.json
+C:\Users\unisanta\Desktop\recursividade\recursividade\bin\Debug\net6.0\recursividade.dll
+C:\Users\unisanta\Desktop\recursividade\recursividade\bin\Debug\net6.0\ref\recursividade.dll
+C:\Users\unisanta\Desktop\recursividade\recursividade\bin\Debug\net6.0\recursividade.pdb
+C:\Users\unisanta\Desktop\recursividade\recursividade\obj\Debug\net6.0\recursividade.csproj.AssemblyReference.cache
+C:\Users\unisanta\Desktop\recursividade\recursividade\obj\Debug\net6.0\recursividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unisanta\Desktop\recursividade\recursividade\obj\Debug\net6.0\recursividade.AssemblyInfoInputs.cache
+C:\Users\unisanta\Desktop\recursividade\recursividade\obj\Debug\net6.0\recursividade.AssemblyInfo.cs
+C:\Users\unisanta\Desktop\recursividade\recursividade\obj\Debug\net6.0\recursividade.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\recursividade\recursividade\obj\Debug\net6.0\recursividade.dll
+C:\Users\unisanta\Desktop\recursividade\recursividade\obj\Debug\net6.0\ref\recursividade.dll
+C:\Users\unisanta\Desktop\recursividade\recursividade\obj\Debug\net6.0\recursividade.pdb
+C:\Users\unisanta\Desktop\recursividade\recursividade\obj\Debug\net6.0\recursividade.genruntimeconfig.cache

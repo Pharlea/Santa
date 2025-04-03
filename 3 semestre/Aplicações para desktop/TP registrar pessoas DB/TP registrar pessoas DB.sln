@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP registrar pessoas DB", "TP registrar pessoas DB\TP registrar pessoas DB.csproj", "{8919918E-297F-4E48-A226-F38FE1F36B9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8919918E-297F-4E48-A226-F38FE1F36B9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8919918E-297F-4E48-A226-F38FE1F36B9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8919918E-297F-4E48-A226-F38FE1F36B9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8919918E-297F-4E48-A226-F38FE1F36B9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98F932E5-6598-4BB8-B5C1-877F6A706126}
+	EndGlobalSection
+EndGlobal
