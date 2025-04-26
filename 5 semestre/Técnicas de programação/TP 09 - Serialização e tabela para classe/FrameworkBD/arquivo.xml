@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Livro>
+<titulo>Teste do metodo serializaJSON</titulo>
+<autor>Mauricio Asenjo</autor>
+<editora>UNISANTA</editora>
+<ano>2023</ano>
+<localizacao>Santos/SP</localizacao>
+</Livro>
