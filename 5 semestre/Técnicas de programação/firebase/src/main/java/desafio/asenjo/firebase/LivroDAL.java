@@ -2,6 +2,7 @@ package desafio.asenjo.firebase;
 
 import java.io.FileInputStream;
 import java.io.IOException;
+import java.nio.file.Paths;
 import java.util.concurrent.ExecutionException;
 
 import com.google.api.core.ApiFuture;
@@ -17,9 +18,14 @@ public class LivroDAL {
 
     public static void conecta() {
         try {
+            // Obtém o diretório atual de execução do programa
+            String caminhoProjeto = System.getProperty("user.dir");
+
+            // Concatena o caminho do arquivo de credenciais com o diretório do projeto
+            String caminhoArquivoCredenciais = Paths.get(caminhoProjeto, "src", "main", "resources", "desafioasenjo-606e5-firebase-adminsdk-fbsvc-d5f3ab1ed7.json").toString();
+
             // Carrega o arquivo de credenciais
-            FileInputStream serviceAccount = new FileInputStream(
-                    "C:\\Users\\raraf\\OneDrive\\Área de Trabalho\\firebase\\src\\main\\resources\\desafioasenjo-606e5-firebase-adminsdk-fbsvc-d5f3ab1ed7.json");
+            FileInputStream serviceAccount = new FileInputStream(caminhoArquivoCredenciais);
 
             FirestoreOptions firestoreOptions = FirestoreOptions.newBuilder()
                     .setCredentials(GoogleCredentials.fromStream(serviceAccount))
@@ -48,11 +54,30 @@ public class LivroDAL {
             if (document.exists()) {
                 umlivro.setAutor(document.getString("autor"));
                 umlivro.setEditora(document.getString("editora"));
-                umlivro.setAnoEdicao(document.getString("ano"));
+                umlivro.setAnoEdicao(document.getString("anoEdicao"));
                 umlivro.setLocalizacao(document.getString("localizacao"));
             } else
                 Erro.setErro("Livro não localizado.");
 
+        } catch (InterruptedException | ExecutionException e) {
+            Erro.setErro("Erro ao consultar livro: " + e.getMessage());
+        }
+    }
+
+    public static void deletaLivro(Livro umlivro) {
+        try {
+            DocumentReference docRef = db.collection("livros").document(umlivro.getTitulo());
+            ApiFuture<DocumentSnapshot> future = docRef.get();
+            DocumentSnapshot document = future.get();
+
+            if (document.exists()) {
+                try {
+                    db.collection("livros").document(umlivro.getTitulo()).delete();
+                } catch (Exception e) {
+                    Erro.setErro("Erro ao deletar livro: " + e.getMessage());
+                }
+            } else
+                Erro.setErro("Livro não localizado.");
         } catch (InterruptedException | ExecutionException e) {
             Erro.setErro("Erro ao consultar livro: " + e.getMessage());
         }

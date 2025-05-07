@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Index</title>
+    <link rel="stylesheet" href="css.css" />
+  </head>
+  <body>
+    <div class="main_div">
+      <form action="pagproduto.jsp">
+        <div class="form_item">
+          <label for="codigo">Código</label>
+          <input type="number" name="codigo" id="codigo" required />
+        </div>
+        <div class="form_item">
+          <label for="quantidade">Quantidade</label>
+          <input type="number" name="quantidade" id="quantidade" required />
+        </div>
+        <div class="form_item">
+          <label for="preco">Preço</label>
+          <input type="number" name="preco" id="preco" required />
+        </div>
+        <div class="btn_div">
+          <input type="submit" value="cadastrar" />
+        </div>
+      </form>
+    </div>
+    <div class="main_div">
+        <form action="consulta.jsp"> 
+        <div class="form_item">
+          <label for="codigo">Código</label>
+          <input type="number" name="codigo" id="codigo" required />
+        </div>
+        <div class="btn_div">
+          <input type="submit" value="consultar" />
+        </div>
+      </form>
+    </div>
+  </body>
+</html>

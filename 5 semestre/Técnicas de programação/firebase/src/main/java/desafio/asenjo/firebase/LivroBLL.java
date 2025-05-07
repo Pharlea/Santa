@@ -35,7 +35,7 @@ public class LivroBLL {
     LivroDAL.inseriLivro(umlivro);
   }
 
-  public static void validaTitulo(Livro umlivro) {
+  public static void validaTitulo(Livro umlivro, boolean consulta) {
     Erro.setErro(false);
     if (umlivro.getTitulo().equals("")) {
       Erro.setErro("O campo TITULO é de preenchimento obrigatório...");
@@ -44,8 +44,9 @@ public class LivroBLL {
     LivroDAL.conecta();
     if (Erro.getErro())
       return;
-    LivroDAL.consultaLivro(umlivro);
-    if (Erro.getErro())
-      return;
+      if (consulta)
+      LivroDAL.consultaLivro(umlivro);
+  else
+      LivroDAL.deletaLivro(umlivro);
   }
 }
