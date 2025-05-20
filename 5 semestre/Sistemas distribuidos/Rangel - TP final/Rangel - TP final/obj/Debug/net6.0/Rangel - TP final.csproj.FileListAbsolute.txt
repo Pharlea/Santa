@@ -1,0 +1,15 @@
+C:\Users\unisanta\Desktop\Rangel - TP final\Rangel - TP final\bin\Debug\net6.0\Rangel - TP final.exe
+C:\Users\unisanta\Desktop\Rangel - TP final\Rangel - TP final\bin\Debug\net6.0\Rangel - TP final.deps.json
+C:\Users\unisanta\Desktop\Rangel - TP final\Rangel - TP final\bin\Debug\net6.0\Rangel - TP final.runtimeconfig.json
+C:\Users\unisanta\Desktop\Rangel - TP final\Rangel - TP final\bin\Debug\net6.0\Rangel - TP final.dll
+C:\Users\unisanta\Desktop\Rangel - TP final\Rangel - TP final\bin\Debug\net6.0\ref\Rangel - TP final.dll
+C:\Users\unisanta\Desktop\Rangel - TP final\Rangel - TP final\bin\Debug\net6.0\Rangel - TP final.pdb
+C:\Users\unisanta\Desktop\Rangel - TP final\Rangel - TP final\obj\Debug\net6.0\Rangel - TP final.csproj.AssemblyReference.cache
+C:\Users\unisanta\Desktop\Rangel - TP final\Rangel - TP final\obj\Debug\net6.0\Rangel - TP final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unisanta\Desktop\Rangel - TP final\Rangel - TP final\obj\Debug\net6.0\Rangel - TP final.AssemblyInfoInputs.cache
+C:\Users\unisanta\Desktop\Rangel - TP final\Rangel - TP final\obj\Debug\net6.0\Rangel - TP final.AssemblyInfo.cs
+C:\Users\unisanta\Desktop\Rangel - TP final\Rangel - TP final\obj\Debug\net6.0\Rangel - TP final.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\Rangel - TP final\Rangel - TP final\obj\Debug\net6.0\Rangel - TP final.dll
+C:\Users\unisanta\Desktop\Rangel - TP final\Rangel - TP final\obj\Debug\net6.0\ref\Rangel - TP final.dll
+C:\Users\unisanta\Desktop\Rangel - TP final\Rangel - TP final\obj\Debug\net6.0\Rangel - TP final.pdb
+C:\Users\unisanta\Desktop\Rangel - TP final\Rangel - TP final\obj\Debug\net6.0\Rangel - TP final.genruntimeconfig.cache
