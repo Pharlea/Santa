@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Formulário</title>
+    <link rel="stylesheet" href="Estilos.css" />
+  </head>
+  <body>
+    <div class="MainMenu">
+      <div>
+        <h1>Cadastrar livro</h1>
+      </div>
+      <div>
+        <form action="Create.jsp">
+          <div class="MainFormDiv">
+            <div class="formItem">
+              <label for="titulo">Titulo</label>
+              <input type="text" name="titulo" id="titulo" />
+            </div>
+            <div class="formItem">
+              <label for="autor">Autor</label>
+              <input type="text" name="autor" id="autor" />
+            </div>
+            <div class="formItem">
+              <label for="editora">Editora</label>
+              <input type="text" name="editora" id="editora" />
+            </div>
+            <div class="formItem">
+              <label for="ano">Ano</label>
+              <input type="text" name="ano" id="ano" />
+            </div>
+            <div class="formItem">
+              <label for="localiazacao">localiazação</label>
+              <input type="text" name="localiazacao" id="localiazacao" />
+            </div>
+            <div class="formItem" id="BtnContainer">
+              <input type="submit" value="Enviar" />
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </body>
+</html>
