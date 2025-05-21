@@ -1,0 +1,65 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  background-color: darkslateblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Courier New", Courier, monospace;
+  font-size: large;
+}
+
+input {
+  font-size: large;
+  border-radius: 10px;
+  background-color: black;
+  color: white;
+  width: 25rem;
+}
+
+h1 {
+  text-decoration: underline;
+}
+
+/*
+ * CLASSES
+ */
+
+.MainMenu {
+  display: flex;
+  align-items: center;
+  background-color:#FFD580;
+  border: 0.5rem solid black;
+  gap: 1vh;
+  padding: 2rem;
+  flex-direction: column;
+}
+.formItem {
+  display: flex;
+  flex-direction: column;
+}
+
+.MainFormDiv {
+  display: flex;
+  gap: 0.5rem;
+  flex-direction: column;
+}
+
+/*
+ * IDs
+ */
+
+#submitBtn {
+  height: 2.5rem;
+  width: 10rem;
+}
+
+#BtnContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
