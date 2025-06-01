@@ -1,0 +1,14 @@
+C:\Users\raraf\OneDrive\Área de Trabalho\Sistemas Distribuidos - T`P especial\Sistemas Distribuidos - T`P especial\bin\Debug\net8.0\Sistemas Distribuidos - T`P especial.exe
+C:\Users\raraf\OneDrive\Área de Trabalho\Sistemas Distribuidos - T`P especial\Sistemas Distribuidos - T`P especial\bin\Debug\net8.0\Sistemas Distribuidos - T`P especial.deps.json
+C:\Users\raraf\OneDrive\Área de Trabalho\Sistemas Distribuidos - T`P especial\Sistemas Distribuidos - T`P especial\bin\Debug\net8.0\Sistemas Distribuidos - T`P especial.runtimeconfig.json
+C:\Users\raraf\OneDrive\Área de Trabalho\Sistemas Distribuidos - T`P especial\Sistemas Distribuidos - T`P especial\bin\Debug\net8.0\Sistemas Distribuidos - T`P especial.dll
+C:\Users\raraf\OneDrive\Área de Trabalho\Sistemas Distribuidos - T`P especial\Sistemas Distribuidos - T`P especial\bin\Debug\net8.0\Sistemas Distribuidos - T`P especial.pdb
+C:\Users\raraf\OneDrive\Área de Trabalho\Sistemas Distribuidos - T`P especial\Sistemas Distribuidos - T`P especial\obj\Debug\net8.0\Sistemas Distribuidos - T`P especial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raraf\OneDrive\Área de Trabalho\Sistemas Distribuidos - T`P especial\Sistemas Distribuidos - T`P especial\obj\Debug\net8.0\Sistemas Distribuidos - T`P especial.AssemblyInfoInputs.cache
+C:\Users\raraf\OneDrive\Área de Trabalho\Sistemas Distribuidos - T`P especial\Sistemas Distribuidos - T`P especial\obj\Debug\net8.0\Sistemas Distribuidos - T`P especial.AssemblyInfo.cs
+C:\Users\raraf\OneDrive\Área de Trabalho\Sistemas Distribuidos - T`P especial\Sistemas Distribuidos - T`P especial\obj\Debug\net8.0\Sistemas Distribuidos - T`P especial.csproj.CoreCompileInputs.cache
+C:\Users\raraf\OneDrive\Área de Trabalho\Sistemas Distribuidos - T`P especial\Sistemas Distribuidos - T`P especial\obj\Debug\net8.0\Sistemas Distribuidos - T`P especial.dll
+C:\Users\raraf\OneDrive\Área de Trabalho\Sistemas Distribuidos - T`P especial\Sistemas Distribuidos - T`P especial\obj\Debug\net8.0\refint\Sistemas Distribuidos - T`P especial.dll
+C:\Users\raraf\OneDrive\Área de Trabalho\Sistemas Distribuidos - T`P especial\Sistemas Distribuidos - T`P especial\obj\Debug\net8.0\Sistemas Distribuidos - T`P especial.pdb
+C:\Users\raraf\OneDrive\Área de Trabalho\Sistemas Distribuidos - T`P especial\Sistemas Distribuidos - T`P especial\obj\Debug\net8.0\Sistemas Distribuidos - T`P especial.genruntimeconfig.cache
+C:\Users\raraf\OneDrive\Área de Trabalho\Sistemas Distribuidos - T`P especial\Sistemas Distribuidos - T`P especial\obj\Debug\net8.0\ref\Sistemas Distribuidos - T`P especial.dll
