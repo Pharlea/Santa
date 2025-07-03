@@ -42,8 +42,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BLL.cs",
+              "DocumentMoniker": "C:\\Users\\raraf\\OneDrive\\Documentos\\GitHub\\Santa\\4 semestre\\Pr\u00E1ticas de programa\u00E7\u00E3o\\PraticasDeProgramacao-Desafio-Bim01\\PraticasDeProgramacao-Desafio-Bim01\\BLL.cs",
+              "RelativeDocumentMoniker": "PraticasDeProgramacao-Desafio-Bim01\\BLL.cs",
+              "ToolTip": "C:\\Users\\raraf\\OneDrive\\Documentos\\GitHub\\Santa\\4 semestre\\Pr\u00E1ticas de programa\u00E7\u00E3o\\PraticasDeProgramacao-Desafio-Bim01\\PraticasDeProgramacao-Desafio-Bim01\\BLL.cs",
+              "RelativeToolTip": "PraticasDeProgramacao-Desafio-Bim01\\BLL.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAiwD4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T19:30:56.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormEditar.cs",
+              "DocumentMoniker": "C:\\Users\\raraf\\OneDrive\\Documentos\\GitHub\\Santa\\4 semestre\\Pr\u00E1ticas de programa\u00E7\u00E3o\\PraticasDeProgramacao-Desafio-Bim01\\PraticasDeProgramacao-Desafio-Bim01\\FormEditar.cs",
+              "RelativeDocumentMoniker": "PraticasDeProgramacao-Desafio-Bim01\\FormEditar.cs",
+              "ToolTip": "C:\\Users\\raraf\\OneDrive\\Documentos\\GitHub\\Santa\\4 semestre\\Pr\u00E1ticas de programa\u00E7\u00E3o\\PraticasDeProgramacao-Desafio-Bim01\\PraticasDeProgramacao-Desafio-Bim01\\FormEditar.cs",
+              "RelativeToolTip": "PraticasDeProgramacao-Desafio-Bim01\\FormEditar.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAIwIQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T19:29:39.321Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
@@ -97,34 +121,10 @@
               "RelativeDocumentMoniker": "PraticasDeProgramacao-Desafio-Bim01\\FormCriar.cs",
               "ToolTip": "C:\\Users\\raraf\\OneDrive\\Documentos\\GitHub\\Santa\\4 semestre\\Pr\u00E1ticas de programa\u00E7\u00E3o\\PraticasDeProgramacao-Desafio-Bim01\\PraticasDeProgramacao-Desafio-Bim01\\FormCriar.cs",
               "RelativeToolTip": "PraticasDeProgramacao-Desafio-Bim01\\FormCriar.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAowD8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwD8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-12T19:34:30.412Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FormEditar.cs",
-              "DocumentMoniker": "C:\\Users\\raraf\\OneDrive\\Documentos\\GitHub\\Santa\\4 semestre\\Pr\u00E1ticas de programa\u00E7\u00E3o\\PraticasDeProgramacao-Desafio-Bim01\\PraticasDeProgramacao-Desafio-Bim01\\FormEditar.cs",
-              "RelativeDocumentMoniker": "PraticasDeProgramacao-Desafio-Bim01\\FormEditar.cs",
-              "ToolTip": "C:\\Users\\raraf\\OneDrive\\Documentos\\GitHub\\Santa\\4 semestre\\Pr\u00E1ticas de programa\u00E7\u00E3o\\PraticasDeProgramacao-Desafio-Bim01\\PraticasDeProgramacao-Desafio-Bim01\\FormEditar.cs",
-              "RelativeToolTip": "PraticasDeProgramacao-Desafio-Bim01\\FormEditar.cs",
-              "ViewState": "AQIAAGgAAAAAAAAAAAAIwIQAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T19:29:39.321Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BLL.cs",
-              "DocumentMoniker": "C:\\Users\\raraf\\OneDrive\\Documentos\\GitHub\\Santa\\4 semestre\\Pr\u00E1ticas de programa\u00E7\u00E3o\\PraticasDeProgramacao-Desafio-Bim01\\PraticasDeProgramacao-Desafio-Bim01\\BLL.cs",
-              "RelativeDocumentMoniker": "PraticasDeProgramacao-Desafio-Bim01\\BLL.cs",
-              "ToolTip": "C:\\Users\\raraf\\OneDrive\\Documentos\\GitHub\\Santa\\4 semestre\\Pr\u00E1ticas de programa\u00E7\u00E3o\\PraticasDeProgramacao-Desafio-Bim01\\PraticasDeProgramacao-Desafio-Bim01\\BLL.cs",
-              "RelativeToolTip": "PraticasDeProgramacao-Desafio-Bim01\\BLL.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAiwD4AAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T19:30:56.362Z"
             },
             {
               "$type": "Document",
