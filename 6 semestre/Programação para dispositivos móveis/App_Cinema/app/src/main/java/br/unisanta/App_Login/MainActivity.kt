@@ -62,9 +62,9 @@ class MainActivity : AppCompatActivity(R.layout.activity_main) {
         }
 
         // Botão para abrir a lista de filmes
-        btnVerLista.setOnClickListener {
+        (btnVerLista.setOnClickListener {
             val intent = Intent(this, SideActivity::class.java)
             startActivity(intent)
-        }
+        })
     }
 }
