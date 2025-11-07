@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "432558479131",
+    "project_id": "appfirebase-22f4a",
+    "storage_bucket": "appfirebase-22f4a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432558479131:android:3a7eaa268d8cc15a43e5be",
+        "android_client_info": {
+          "package_name": "br.unisanta.appfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjJ2M3ODr6L_O6SoI23WdY1BPBafMErfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432558479131:android:ed74a86da036fb3943e5be",
+        "android_client_info": {
+          "package_name": "br.unisanta.firebaseappaula2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjJ2M3ODr6L_O6SoI23WdY1BPBafMErfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

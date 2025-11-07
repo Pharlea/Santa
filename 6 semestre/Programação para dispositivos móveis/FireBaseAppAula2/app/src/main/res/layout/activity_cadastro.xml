@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CadastroActivity">
+
+    <!-- Campo de texto para o Nome do Produto -->
+    <EditText
+        android:id="@+id/edt_nome"
+        android:layout_width="0dp"
+        android:layout_height="48dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginEnd="32dp"
+        android:hint="Nome do Produto"
+        android:inputType="textCapWords"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        app:layout_constraintBottom_toTopOf="@+id/edt_preco"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_chainStyle="packed" />
+
+    <!-- Campo de texto para o Preço do Produto --><EditText
+    android:id="@+id/edt_preco"
+    android:layout_width="0dp"
+    android:layout_height="48dp"
+    android:layout_marginTop="16dp"
+    android:hint="Preço (Ex: 99.90)"
+    android:inputType="numberDecimal"
+    android:paddingStart="16dp"
+    android:paddingEnd="16dp"
+    app:layout_constraintBottom_toTopOf="@+id/edt_quantidade"
+    app:layout_constraintEnd_toEndOf="@+id/edt_nome"
+    app:layout_constraintStart_toStartOf="@+id/edt_nome"
+    app:layout_constraintTop_toBottomOf="@+id/edt_nome" />
+
+    <!-- Campo de texto para a Quantidade -->
+    <EditText
+        android:id="@+id/edt_quantidade"
+        android:layout_width="0dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="16dp"
+        android:hint="Quantidade em estoque"
+        android:inputType="number"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        app:layout_constraintBottom_toTopOf="@+id/btn_cadastrar"
+        app:layout_constraintEnd_toEndOf="@+id/edt_preco"
+        app:layout_constraintStart_toStartOf="@+id/edt_preco"
+        app:layout_constraintTop_toBottomOf="@+id/edt_preco" />
+
+    <!-- Botão para Cadastrar -->
+    <Button
+        android:id="@+id/btn_cadastrar"
+        android:layout_width="0dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="24dp"
+        android:text="Cadastrar Produto"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/edt_quantidade"
+        app:layout_constraintStart_toStartOf="@+id/edt_quantidade"
+        app:layout_constraintTop_toBottomOf="@+id/edt_quantidade" />
+
+    <!-- Floating Action Button para ver a lista -->
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fab_lista"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="16dp"
+        android:clickable="true"
+        android:contentDescription="Ver lista de produtos"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:srcCompat="@android:drawable/ic_menu_sort_by_size" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
