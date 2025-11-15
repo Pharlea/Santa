@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "934627439626",
+    "project_id": "appfirebasedesafio",
+    "storage_bucket": "appfirebasedesafio.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934627439626:android:b2891856bb0bd36f1d9bf3",
+        "android_client_info": {
+          "package_name": "br.unisanta.appfirebasedesafio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXs8qFnrM76W-Uz4ia7HEm2gIRpwi7i8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
